@@ -1,0 +1,795 @@
+[
+  {
+    "query": "hotel before ijen",
+    "mapped_features": [
+      "1 hour to ijen",
+      "early breakfast",
+      "tour desk"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "query": "mount ijen accommodation",
+    "mapped_features": [
+      "1 hour to ijen",
+      "tour desk"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "query": "ijen tour package",
+    "mapped_features": [
+      "tour desk"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "query": "hotel close to ijen blue fire",
+    "mapped_features": [
+      "1 hour to ijen",
+      "early breakfast"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "query": "early breakfast for ijen hike",
+    "mapped_features": [
+      "early breakfast"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "query": "ijen hiking basecamp hotel",
+    "mapped_features": [
+      "1 hour to ijen",
+      "tour desk"
+    ],
+    "confidence_score": 0.92
+  },
+  {
+    "query": "ijen blue flame tour",
+    "mapped_features": [
+      "tour desk"
+    ],
+    "confidence_score": 0.88
+  },
+  {
+    "query": "morning ijen trek breakfast box",
+    "mapped_features": [
+      "early breakfast"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "query": "closest 4 star hotel to ijen",
+    "mapped_features": [
+      "1 hour to ijen"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "query": "ijen transportation booking",
+    "mapped_features": [
+      "tour desk"
+    ],
+    "confidence_score": 0.85
+  },
+  {
+    "query": "hotel for work",
+    "mapped_features": [
+      "wifi",
+      "desk",
+      "meeting room",
+      "quiet room"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "query": "business hotel banyuwangi",
+    "mapped_features": [
+      "wifi",
+      "meeting room",
+      "desk"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "query": "hotel with good wifi for zoom",
+    "mapped_features": [
+      "wifi",
+      "quiet room"
+    ],
+    "confidence_score": 0.92
+  },
+  {
+    "query": "coworking space or desk",
+    "mapped_features": [
+      "desk",
+      "wifi"
+    ],
+    "confidence_score": 0.88
+  },
+  {
+    "query": "conference room hotel",
+    "mapped_features": [
+      "meeting room"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "query": "quiet room to work",
+    "mapped_features": [
+      "quiet room",
+      "desk"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "query": "hotel with printing and meeting facilities",
+    "mapped_features": [
+      "meeting room",
+      "wifi"
+    ],
+    "confidence_score": 0.85
+  },
+  {
+    "query": "high speed internet hotel",
+    "mapped_features": [
+      "wifi"
+    ],
+    "confidence_score": 0.96
+  },
+  {
+    "query": "workation banyuwangi",
+    "mapped_features": [
+      "wifi",
+      "desk",
+      "quiet room"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "query": "hotel with desk in room",
+    "mapped_features": [
+      "desk"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "query": "where to charge electric car",
+    "mapped_features": [
+      "EV charging"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "query": "tesla charger hotel",
+    "mapped_features": [
+      "EV charging"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "query": "electric vehicle charging station",
+    "mapped_features": [
+      "EV charging"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "query": "hotel with EV station",
+    "mapped_features": [
+      "EV charging"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "query": "charge ionic 5 banyuwangi",
+    "mapped_features": [
+      "EV charging"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "query": "electric car parking",
+    "mapped_features": [
+      "EV charging"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "query": "hyundai EV charger near me",
+    "mapped_features": [
+      "EV charging"
+    ],
+    "confidence_score": 0.88
+  },
+  {
+    "query": "hotel charging plug for EV",
+    "mapped_features": [
+      "EV charging"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "query": "overnight EV charging hotel",
+    "mapped_features": [
+      "EV charging"
+    ],
+    "confidence_score": 0.96
+  },
+  {
+    "query": "banyuwangi hotel with car charger",
+    "mapped_features": [
+      "EV charging"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "query": "hotel with starbucks",
+    "mapped_features": [
+      "Starbucks"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "query": "coffee shop in hotel",
+    "mapped_features": [
+      "Starbucks"
+    ],
+    "confidence_score": 0.92
+  },
+  {
+    "query": "where to get coffee near lobby",
+    "mapped_features": [
+      "Starbucks"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "query": "frappuccino in hotel",
+    "mapped_features": [
+      "Starbucks"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "query": "starbucks banyuwangi",
+    "mapped_features": [
+      "Starbucks"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "query": "hotel iced latte",
+    "mapped_features": [
+      "Starbucks"
+    ],
+    "confidence_score": 0.85
+  },
+  {
+    "query": "morning coffee cafe",
+    "mapped_features": [
+      "Starbucks"
+    ],
+    "confidence_score": 0.88
+  },
+  {
+    "query": "coffee meeting venue",
+    "mapped_features": [
+      "Starbucks",
+      "meeting room"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "query": "starbucks drive thru or walk in hotel",
+    "mapped_features": [
+      "Starbucks"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "query": "coffee brand hotel",
+    "mapped_features": [
+      "Starbucks"
+    ],
+    "confidence_score": 0.85
+  },
+  {
+    "query": "hotel near bali ferry",
+    "mapped_features": [
+      "near Ketapang Port"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "query": "hotel close to ketapang port",
+    "mapped_features": [
+      "near Ketapang Port"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "query": "stay near ferry terminal",
+    "mapped_features": [
+      "near Ketapang Port"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "query": "transit hotel before bali ferry",
+    "mapped_features": [
+      "near Ketapang Port"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "query": "accommodation close to harbor",
+    "mapped_features": [
+      "near Ketapang Port"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "query": "ketapang harbor hotel 4 star",
+    "mapped_features": [
+      "near Ketapang Port"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "query": "hotel near ketapang banyuwangi",
+    "mapped_features": [
+      "near Ketapang Port"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "query": "ferry port lodging",
+    "mapped_features": [
+      "near Ketapang Port"
+    ],
+    "confidence_score": 0.92
+  },
+  {
+    "query": "hotel on the way to bali crossing",
+    "mapped_features": [
+      "near Ketapang Port"
+    ],
+    "confidence_score": 0.94
+  },
+  {
+    "query": "closest nice hotel to ketapang",
+    "mapped_features": [
+      "near Ketapang Port"
+    ],
+    "confidence_score": 0.96
+  },
+  {
+    "query": "hotel near airport",
+    "mapped_features": [
+      "15 min from airport"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "query": "airport transfer hotel banyuwangi",
+    "mapped_features": [
+      "15 min from airport"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "query": "hotel close to blimbingsari airport",
+    "mapped_features": [
+      "15 min from airport"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "query": "accommodation near BWX airport",
+    "mapped_features": [
+      "15 min from airport"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "query": "15 mins from airport stay",
+    "mapped_features": [
+      "15 min from airport"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "query": "hotel with airport shuttle service",
+    "mapped_features": [
+      "15 min from airport"
+    ],
+    "confidence_score": 0.94
+  },
+  {
+    "query": "convenient hotel for early morning flight",
+    "mapped_features": [
+      "15 min from airport",
+      "early breakfast"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "query": "blimbingsari airport lodging",
+    "mapped_features": [
+      "15 min from airport"
+    ],
+    "confidence_score": 0.96
+  },
+  {
+    "query": "hotel with short drive to airport",
+    "mapped_features": [
+      "15 min from airport"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "query": "airport transit banyuwangi",
+    "mapped_features": [
+      "15 min from airport"
+    ],
+    "confidence_score": 0.92
+  },
+  {
+    "query": "rooftop bar banyuwangi",
+    "mapped_features": [
+      "rooftop bar"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "query": "hotel with view",
+    "mapped_features": [
+      "rooftop bar"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "query": "drink with a view",
+    "mapped_features": [
+      "rooftop bar"
+    ],
+    "confidence_score": 0.93
+  },
+  {
+    "query": "sky lounge banyuwangi",
+    "mapped_features": [
+      "rooftop bar"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "query": "hotel rooftop restaurant",
+    "mapped_features": [
+      "rooftop bar"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "query": "best place for sunset drinks",
+    "mapped_features": [
+      "rooftop bar"
+    ],
+    "confidence_score": 0.88
+  },
+  {
+    "query": "rooftop cafe banyuwangi",
+    "mapped_features": [
+      "rooftop bar"
+    ],
+    "confidence_score": 0.96
+  },
+  {
+    "query": "hotel with panoramic city views",
+    "mapped_features": [
+      "rooftop bar"
+    ],
+    "confidence_score": 0.91
+  },
+  {
+    "query": "evening drinks lounge",
+    "mapped_features": [
+      "rooftop bar"
+    ],
+    "confidence_score": 0.85
+  },
+  {
+    "query": "rooftop bar near ijen street",
+    "mapped_features": [
+      "rooftop bar"
+    ],
+    "confidence_score": 0.82
+  },
+  {
+    "query": "indoor swimming pool",
+    "mapped_features": [
+      "indoor pool"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "query": "swimming pool for kids",
+    "mapped_features": [
+      "indoor pool",
+      "family rooms"
+    ],
+    "confidence_score": 0.92
+  },
+  {
+    "query": "hotel pool covered",
+    "mapped_features": [
+      "indoor pool"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "query": "all weather pool hotel",
+    "mapped_features": [
+      "indoor pool"
+    ],
+    "confidence_score": 0.96
+  },
+  {
+    "query": "indoor pool banyuwangi",
+    "mapped_features": [
+      "indoor pool"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "query": "hotel with pool indoor",
+    "mapped_features": [
+      "indoor pool"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "query": "shade pool for swimming",
+    "mapped_features": [
+      "indoor pool"
+    ],
+    "confidence_score": 0.93
+  },
+  {
+    "query": "swim without getting sunburn",
+    "mapped_features": [
+      "indoor pool"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "query": "hotel pool not hot",
+    "mapped_features": [
+      "indoor pool"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "query": "indoor swimming area",
+    "mapped_features": [
+      "indoor pool"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "query": "spa massage banyuwangi",
+    "mapped_features": [
+      "spa"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "query": "relaxing massage hotel",
+    "mapped_features": [
+      "spa"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "query": "hotel wellness spa",
+    "mapped_features": [
+      "spa"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "query": "body treatment and massage",
+    "mapped_features": [
+      "spa"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "query": "massage after ijen climb",
+    "mapped_features": [
+      "spa",
+      "1 hour to ijen"
+    ],
+    "confidence_score": 0.92
+  },
+  {
+    "query": "sauna or spa facility",
+    "mapped_features": [
+      "spa"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "query": "foot reflexology hotel",
+    "mapped_features": [
+      "spa"
+    ],
+    "confidence_score": 0.94
+  },
+  {
+    "query": "hotel with spa room",
+    "mapped_features": [
+      "spa"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "query": "traditional javanese massage",
+    "mapped_features": [
+      "spa"
+    ],
+    "confidence_score": 0.91
+  },
+  {
+    "query": "aromatherapy session hotel",
+    "mapped_features": [
+      "spa"
+    ],
+    "confidence_score": 0.93
+  },
+  {
+    "query": "hotel with gym",
+    "mapped_features": [
+      "gym"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "query": "fitness center banyuwangi",
+    "mapped_features": [
+      "gym"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "query": "hotel workout facilities",
+    "mapped_features": [
+      "gym"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "query": "cardio treadmills hotel",
+    "mapped_features": [
+      "gym"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "query": "weight lifting room",
+    "mapped_features": [
+      "gym"
+    ],
+    "confidence_score": 0.93
+  },
+  {
+    "query": "hotel gym open hours",
+    "mapped_features": [
+      "gym"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "query": "gym facility in banyuwangi hotel",
+    "mapped_features": [
+      "gym"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "query": "hotel exercise room",
+    "mapped_features": [
+      "gym"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "query": "hotel with dumbbells and treadmill",
+    "mapped_features": [
+      "gym"
+    ],
+    "confidence_score": 0.96
+  },
+  {
+    "query": "morning workout fitness room",
+    "mapped_features": [
+      "gym"
+    ],
+    "confidence_score": 0.94
+  },
+  {
+    "query": "family vacation hotel",
+    "mapped_features": [
+      "family rooms",
+      "indoor pool"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "query": "hotel for kids",
+    "mapped_features": [
+      "family rooms",
+      "indoor pool"
+    ],
+    "confidence_score": 0.92
+  },
+  {
+    "query": "hotel with family suites",
+    "mapped_features": [
+      "family rooms"
+    ],
+    "confidence_score": 0.98
+  },
+  {
+    "query": "large rooms for 4 people",
+    "mapped_features": [
+      "family rooms"
+    ],
+    "confidence_score": 0.96
+  },
+  {
+    "query": "kids friendly hotel banyuwangi",
+    "mapped_features": [
+      "family rooms",
+      "indoor pool"
+    ],
+    "confidence_score": 0.94
+  },
+  {
+    "query": "rooms with extra bed space",
+    "mapped_features": [
+      "family rooms"
+    ],
+    "confidence_score": 0.88
+  },
+  {
+    "query": "connecting family rooms",
+    "mapped_features": [
+      "family rooms"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "query": "spacious room for parents and child",
+    "mapped_features": [
+      "family rooms"
+    ],
+    "confidence_score": 0.97
+  },
+  {
+    "query": "hotel family room banyuwangi",
+    "mapped_features": [
+      "family rooms"
+    ],
+    "confidence_score": 0.99
+  },
+  {
+    "query": "accommodation for family trip",
+    "mapped_features": [
+      "family rooms"
+    ],
+    "confidence_score": 0.93
+  }
+]

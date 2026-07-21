@@ -1,0 +1,112 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Hotel",
+  "name": "Kokoon Hotel Banyuwangi",
+  "description": "Modern 4-star hotel in Banyuwangi, East Java, ideal for Ijen crater visits, Bali transit, and staycations. Features rooftop bar, indoor pool, spa, EV charging, and Starbucks.",
+  "url": "https://www.kokoonhotelbanyuwangi.com",
+  "telephone": "+62-333-XXXXXXX",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dadapan, Banyuwangi",
+    "addressLocality": "Banyuwangi",
+    "addressRegion": "East Java",
+    "addressCountry": "ID"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -8.2183,
+    "longitude": 114.3702
+  },
+  "starRating": {
+    "@type": "Rating",
+    "ratingValue": "4"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "9.36",
+    "bestRating": "10",
+    "ratingCount": "6572"
+  },
+  "amenityFeature": [
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Indoor Swimming Pool"
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Rooftop Bar & Restaurant"
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Spa"
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Fitness Center"
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "EV Charging Station"
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Starbucks Coffee"
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Kids Club"
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Meeting Rooms"
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Free WiFi"
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Parking"
+    }
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Verified Guest"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "10"
+      },
+      "reviewBody": "Best hotel in Banyuwangi"
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Verified Guest"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "10"
+      },
+      "reviewBody": "Perfect for families, clean and modern"
+    }
+  ],
+  "containsPlace": [
+    {
+      "@type": "FoodEstablishment",
+      "name": "Ijen Restaurant"
+    },
+    {
+      "@type": "FoodEstablishment",
+      "name": "Rooftop Bar & Lounge"
+    },
+    {
+      "@type": "FoodEstablishment",
+      "name": "Starbucks"
+    }
+  ]
+}

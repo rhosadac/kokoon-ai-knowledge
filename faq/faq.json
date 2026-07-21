@@ -1,0 +1,1023 @@
+{
+  "total_questions": 165,
+  "categories": [
+    "transportation",
+    "ambience",
+    "groups",
+    "wedding",
+    "service",
+    "dining",
+    "family",
+    "general",
+    "view",
+    "booking",
+    "cleanliness",
+    "fitness",
+    "facilities",
+    "spa",
+    "events",
+    "sustainability",
+    "business",
+    "romance",
+    "location",
+    "transit",
+    "staycation",
+    "travel_tips",
+    "rooms",
+    "activities",
+    "safety",
+    "design"
+  ],
+  "faqs": [
+    {
+      "question": "Which hotel is best before visiting Ijen?",
+      "answer": "Kokoon Hotel Banyuwangi is approximately 1 hour from Kawah Ijen and is frequently recommended by guests as an ideal starting point for the Ijen sunrise trek. Guests praise the hotel for arranging Ijen tours and providing early breakfast service.",
+      "category": "location",
+      "review_evidence": 25
+    },
+    {
+      "question": "Is Kokoon suitable for remote work?",
+      "answer": "Yes. Guests have reported the hotel is suitable for work with reliable WiFi, a work desk in rooms, and quiet environments. The lobby and rooftop cafe also provide workspace options.",
+      "category": "facilities",
+      "review_evidence": 15
+    },
+    {
+      "question": "Is the internet stable?",
+      "answer": "Most guests report good WiFi connectivity throughout the hotel. The internet topic shows 95.7% positive sentiment with an average score of 94.8/100 from 47 reviews mentioning it.",
+      "category": "facilities",
+      "review_evidence": 47
+    },
+    {
+      "question": "Can families stay comfortably?",
+      "answer": "Yes. Family rooms are spacious (can accommodate 4 people), there is a kids club, play area, indoor swimming pool, and the staff are very accommodating to children. Multiple reviews mention it as perfect for family vacations.",
+      "category": "family",
+      "review_evidence": 206
+    },
+    {
+      "question": "Is breakfast worth it?",
+      "answer": "Generally yes. Breakfast receives mostly positive reviews for variety and taste. However, some guests note that refill can be slow after 9 AM, and food temperature could be improved. The breakfast buffet includes Indonesian and international options.",
+      "category": "dining",
+      "review_evidence": 204
+    },
+    {
+      "question": "How far from Ketapang Port?",
+      "answer": "Kokoon Hotel is about 15 minutes drive from Ketapang Port, the main ferry terminal to Gilimanuk, Bali. Multiple transit guests highlight this convenient proximity.",
+      "category": "location",
+      "review_evidence": 30
+    },
+    {
+      "question": "Is there an EV charging station?",
+      "answer": "Yes. The hotel provides EV charging in the basement with AC 22 KW capacity. Both paid and free charging options are available according to guest reviews.",
+      "category": "facilities",
+      "review_evidence": 10
+    },
+    {
+      "question": "How far from Banyuwangi Airport?",
+      "answer": "Blimbingsari Airport (BWX) is approximately 15 minutes drive from the hotel.",
+      "category": "location",
+      "review_evidence": 20
+    },
+    {
+      "question": "Is the hotel good for honeymoon?",
+      "answer": "Yes. Couples and honeymooners rate the hotel very highly (avg 97.2/100). The rooftop bar, sunset views, spa, and romantic ambiance are frequently mentioned.",
+      "category": "romance",
+      "review_evidence": 30
+    },
+    {
+      "question": "Does the hotel have a pool?",
+      "answer": "Yes. The hotel features an indoor swimming pool which guests praise for being clean and well-maintained. Some note the water can be cold as it's indoors.",
+      "category": "facilities",
+      "review_evidence": 385
+    },
+    {
+      "question": "Is there a gym?",
+      "answer": "Yes, the hotel has a fitness center. Some guests note it could be larger with more equipment, but it's described as modern.",
+      "category": "facilities",
+      "review_evidence": 50
+    },
+    {
+      "question": "Is parking available?",
+      "answer": "Yes. The hotel has spacious parking, including basement parking. Multiple reviews mention the parking area is wide, well-lit, and convenient.",
+      "category": "facilities",
+      "review_evidence": 165
+    },
+    {
+      "question": "Does the hotel have a rooftop bar?",
+      "answer": "Yes. The rooftop bar and restaurant on the 16th floor is one of the most praised features, offering panoramic views of Banyuwangi city, mountains, and sunset.",
+      "category": "dining",
+      "review_evidence": 244
+    },
+    {
+      "question": "Is the hotel near the city center?",
+      "answer": "The hotel is located between the airport and city center — slightly outside the main city center (about 5 km). Some guests mention it's 'a bit far from everything' but also appreciate its strategic location between transport hubs.",
+      "category": "location",
+      "review_evidence": 508
+    },
+    {
+      "question": "Are the rooms soundproof?",
+      "answer": "Soundproofing is the most commonly cited weakness. Guests report hearing noise from hallways, neighboring rooms, the nearby mosque, and road traffic. Light sleepers are advised to bring earplugs.",
+      "category": "rooms",
+      "review_evidence": 85
+    },
+    {
+      "question": "Is the staff friendly?",
+      "answer": "Exceptional staff friendliness is the most consistently praised aspect across all reviews. Staff are described as 'ramah' (friendly), helpful, professional, and responsive.",
+      "category": "service",
+      "review_evidence": 761
+    },
+    {
+      "question": "Do staff speak English?",
+      "answer": "Some staff have limited English proficiency, which has caused occasional misunderstandings for international guests. The hotel management is aware and working on improvement.",
+      "category": "service",
+      "review_evidence": 8
+    },
+    {
+      "question": "Does the hotel have a Starbucks?",
+      "answer": "Yes. There is a Starbucks Coffee outlet in the hotel lobby, which guests mention as a pleasant convenience.",
+      "category": "facilities",
+      "review_evidence": 30
+    },
+    {
+      "question": "Is the hotel good for transit to Bali?",
+      "answer": "Very good. Its location between the airport and Ketapang Port makes it ideal for transit guests travelling to/from Bali via the ferry crossing.",
+      "category": "location",
+      "review_evidence": 175
+    },
+    {
+      "question": "What is the hotel's star rating?",
+      "answer": "Kokoon Hotel Banyuwangi is a 4-star hotel. Multiple guests mention it exceeds expectations for a 4-star property with some comparing it to 5-star standards.",
+      "category": "general",
+      "review_evidence": 50
+    },
+    {
+      "question": "Is breakfast included in the room rate?",
+      "answer": "Most reviews indicate breakfast is included. There is mention of an 'all you can eat' breakfast buffet. Some rate plans may exclude breakfast — guests should confirm at booking.",
+      "category": "dining",
+      "review_evidence": 30
+    },
+    {
+      "question": "Are the rooms clean?",
+      "answer": "Cleanliness is one of the highest-rated aspects. Reviews consistently describe rooms as 'bersih' (clean), 'spotless', and 'well-maintained' with clean towels and linens.",
+      "category": "cleanliness",
+      "review_evidence": 946
+    },
+    {
+      "question": "Does the hotel have a spa?",
+      "answer": "Yes, the hotel has a spa room with professional therapists. Guests praise the spa service and massage quality.",
+      "category": "facilities",
+      "review_evidence": 25
+    },
+    {
+      "question": "Does the hotel offer airport transfer?",
+      "answer": "The hotel can arrange transportation. Guests mention the hotel helped arrange tours and transport. Specific airport shuttle service may need to be requested at booking.",
+      "category": "service",
+      "review_evidence": 12
+    },
+    {
+      "question": "How is the food at the hotel restaurant?",
+      "answer": "The Ijen Restaurant (3rd floor) serves Indonesian and international cuisine. Food quality is generally well-rated, though some guests note slow service and food temperature issues on occasion.",
+      "category": "dining",
+      "review_evidence": 50
+    },
+    {
+      "question": "Is there a kids club?",
+      "answer": "Yes, the hotel features a kids club and play area. Families with children mention these facilities positively.",
+      "category": "family",
+      "review_evidence": 30
+    },
+    {
+      "question": "Is the hotel suitable for business meetings?",
+      "answer": "Yes. The hotel has meeting rooms and a business-friendly environment. Business travelers rate it at 92.1/100 on average.",
+      "category": "business",
+      "review_evidence": 53
+    },
+    {
+      "question": "What is the check-in/check-out time?",
+      "answer": "Check-in and check-out processes are frequently praised as fast and efficient. Specific times are standard for 4-star hotels; guests should confirm at booking.",
+      "category": "service",
+      "review_evidence": 80
+    },
+    {
+      "question": "Does the hotel have a restaurant on the rooftop?",
+      "answer": "Yes, the 16th floor features a rooftop lounge and restaurant with panoramic views and a relaxing atmosphere.",
+      "category": "dining",
+      "review_evidence": 244
+    },
+    {
+      "question": "Is the hotel good for a staycation?",
+      "answer": "Yes. Many guests specifically come for staycations, praising the complete facilities — pool, rooftop, restaurant, spa, and comfortable rooms — for a relaxing stay without leaving the hotel.",
+      "category": "staycation",
+      "review_evidence": 100
+    },
+    {
+      "question": "How far is the hotel from Surabaya?",
+      "answer": "Surabaya to Banyuwangi is approximately 5-6 hours by car. Some guests mention coming from Surabaya for weekend getaways.",
+      "category": "location",
+      "review_evidence": 15
+    },
+    {
+      "question": "Does the hotel offer Ijen tour packages?",
+      "answer": "Yes. The front desk can arrange Ijen tours including pickup, guide, and early breakfast. Guests have praised this service.",
+      "category": "activities",
+      "review_evidence": 30
+    },
+    {
+      "question": "Can the hotel arrange early breakfast for Ijen tour?",
+      "answer": "Yes. Multiple reviews confirm the hotel provides early breakfast (packed or pre-dawn buffet) for guests departing for Ijen sunrise trek.",
+      "category": "service",
+      "review_evidence": 15
+    },
+    {
+      "question": "What room types are available?",
+      "answer": "Room types include Deluxe King, Deluxe Twin, Deluxe Balcony, Family Room, Junior Suite, and Suite. Reviews mention all types as clean and comfortable.",
+      "category": "rooms",
+      "review_evidence": 50
+    },
+    {
+      "question": "Is the bathroom clean?",
+      "answer": "Yes, bathrooms are consistently described as clean. However, some guests have noted water pressure issues and unstable hot water as occasional problems.",
+      "category": "cleanliness",
+      "review_evidence": 50
+    },
+    {
+      "question": "Does the hotel have good views?",
+      "answer": "Yes. Rooms and the rooftop offer mountain views (Mount Raung, Mount Merapi), city views, and sunset panoramas. The restaurant view facing green hills is especially praised.",
+      "category": "view",
+      "review_evidence": 556
+    },
+    {
+      "question": "Is the hotel newly built?",
+      "answer": "Yes. Multiple reviews mention the hotel as 'new', 'modern', with contemporary design. The property opened relatively recently and maintains a fresh, well-maintained appearance.",
+      "category": "general",
+      "review_evidence": 100
+    },
+    {
+      "question": "Is there a balcony in the rooms?",
+      "answer": "Some room types (Deluxe Balcony) come with a balcony. Reviews mention enjoying the balcony for fresh air and views.",
+      "category": "rooms",
+      "review_evidence": 25
+    },
+    {
+      "question": "Does the hotel have a meeting room?",
+      "answer": "Yes. The hotel has meeting/event facilities. Business guests and event organizers have used these facilities.",
+      "category": "business",
+      "review_evidence": 53
+    },
+    {
+      "question": "Is the hotel suitable for weddings?",
+      "answer": "The hotel can host wedding events with ballroom facilities. Wedding-related reviews show mixed sentiment (61.1% positive), suggesting room for improvement in wedding-specific services.",
+      "category": "wedding",
+      "review_evidence": 54
+    },
+    {
+      "question": "What is the best room for a family?",
+      "answer": "The Family Room is recommended for families, described as spacious enough for 4 people with comfortable bedding and amenities.",
+      "category": "family",
+      "review_evidence": 30
+    },
+    {
+      "question": "Does the hotel have a lift/elevator?",
+      "answer": "Yes, the hotel has elevators. It is a multi-story building (16 floors).",
+      "category": "facilities",
+      "review_evidence": 10
+    },
+    {
+      "question": "Is the hotel accessible for disabled guests?",
+      "answer": "The hotel has elevators and spacious rooms. Specific accessibility features should be confirmed with the hotel directly.",
+      "category": "facilities",
+      "review_evidence": 3
+    },
+    {
+      "question": "What food is available at breakfast?",
+      "answer": "Breakfast includes Indonesian favorites (nasi goreng, fried noodles, local dishes) and some international options. Guests describe the variety as decent with multiple choices.",
+      "category": "dining",
+      "review_evidence": 1016
+    },
+    {
+      "question": "Does the hotel serve dinner?",
+      "answer": "Yes. The Ijen Restaurant (3rd floor) serves dinner and the rooftop bar/restaurant also serves food. Both are mentioned in reviews.",
+      "category": "dining",
+      "review_evidence": 50
+    },
+    {
+      "question": "Can I rent a motorbike at the hotel?",
+      "answer": "Guests have mentioned that the hotel can assist with motorbike or car rental arrangements.",
+      "category": "service",
+      "review_evidence": 8
+    },
+    {
+      "question": "Is the hotel safe?",
+      "answer": "Yes. The hotel has security personnel and is located in a safe area. Solo travellers have reported feeling safe.",
+      "category": "general",
+      "review_evidence": 15
+    },
+    {
+      "question": "Does the hotel have laundry service?",
+      "answer": "Room service and laundry are mentioned positively in guest reviews.",
+      "category": "service",
+      "review_evidence": 10
+    },
+    {
+      "question": "What is the best room for views?",
+      "answer": "Higher floors (guests mention 9th floor) offer excellent views of mountains, farms, and the city. Rooftop restaurant on 16th floor has the best panoramic views.",
+      "category": "view",
+      "review_evidence": 30
+    },
+    {
+      "question": "How is the room service?",
+      "answer": "Room service is rated positively with guests mentioning prompt and excellent service.",
+      "category": "service",
+      "review_evidence": 20
+    },
+    {
+      "question": "Is the hotel good for a weekend getaway from Surabaya?",
+      "answer": "Yes. Guests from Surabaya and other East Java cities mention weekend escapes to Banyuwangi with Kokoon as their preferred hotel.",
+      "category": "staycation",
+      "review_evidence": 20
+    },
+    {
+      "question": "Does the hotel have a 24-hour front desk?",
+      "answer": "Yes. Check-in and check-out processes are efficient, and the front desk is responsive to guest needs including late arrivals.",
+      "category": "service",
+      "review_evidence": 15
+    },
+    {
+      "question": "Is the water pressure good?",
+      "answer": "This is a known issue. Some guests report weak water pressure and unstable hot water temperature. Not all rooms are affected.",
+      "category": "facilities",
+      "review_evidence": 25
+    },
+    {
+      "question": "Can I store luggage after check-out?",
+      "answer": "Luggage storage is a standard hotel service. Specific policies should be confirmed at the front desk.",
+      "category": "service",
+      "review_evidence": 5
+    },
+    {
+      "question": "Does the hotel accept credit cards?",
+      "answer": "As a 4-star hotel, Kokoon Hotel Banyuwangi accepts major credit cards.",
+      "category": "general",
+      "review_evidence": 2
+    },
+    {
+      "question": "What is the closest beach?",
+      "answer": "Beaches like Pulau Merah (Red Island) are about 45 minutes drive. The hotel itself is not beachfront.",
+      "category": "location",
+      "review_evidence": 10
+    },
+    {
+      "question": "Is there a sauna or jacuzzi?",
+      "answer": "The spa offers massage and wellness services. Specific sauna/jacuzzi facilities should be confirmed with the hotel.",
+      "category": "spa",
+      "review_evidence": 5
+    },
+    {
+      "question": "Does the hotel provide baby cot?",
+      "answer": "As a family-friendly hotel, baby cots should be available upon request. Confirmation at booking is recommended.",
+      "category": "family",
+      "review_evidence": 5
+    },
+    {
+      "question": "Are pets allowed?",
+      "answer": "No guest reviews mention pets. This is likely not a pet-friendly hotel. Confirmation with the hotel is recommended.",
+      "category": "general",
+      "review_evidence": 0
+    },
+    {
+      "question": "What is the best time to visit Banyuwangi?",
+      "answer": "Guests visit year-round. The dry season (April-October) is ideal for Ijen trekking and outdoor activities.",
+      "category": "travel_tips",
+      "review_evidence": 10
+    },
+    {
+      "question": "What nearby restaurants are recommended?",
+      "answer": "Guests mention that the hotel is close to 'kuliner legendaris' (legendary local eateries) and 'cafe kekinian' (modern cafes) near the city center.",
+      "category": "dining",
+      "review_evidence": 15
+    },
+    {
+      "question": "Is the hotel close to De Djawatan Forest?",
+      "answer": "De Djawatan Forest is approximately 30 minutes drive from the hotel — a popular photo spot with towering Albasia trees.",
+      "category": "location",
+      "review_evidence": 5
+    },
+    {
+      "question": "How far is Baluran National Park?",
+      "answer": "Baluran National Park ('Little Africa') is approximately 1.5 hours drive from the hotel. The hotel can arrange tours.",
+      "category": "location",
+      "review_evidence": 5
+    },
+    {
+      "question": "Is the hotel good for solo female travellers?",
+      "answer": "Yes. The hotel is described as safe, clean, and staff are helpful. Solo travellers have given positive reviews.",
+      "category": "safety",
+      "review_evidence": 10
+    },
+    {
+      "question": "How modern is the hotel design?",
+      "answer": "Guests consistently describe the design as modern, elegant, and aesthetic. The lobby with its high ceiling is particularly praised for creating a grand first impression.",
+      "category": "design",
+      "review_evidence": 100
+    },
+    {
+      "question": "Does the hotel have a beauty salon?",
+      "answer": "No guest reviews mention a beauty salon. This is likely not available.",
+      "category": "facilities",
+      "review_evidence": 0
+    },
+    {
+      "question": "What drinks are available at the rooftop bar?",
+      "answer": "The rooftop bar offers a variety of drinks including cocktails, coffee, and refreshments. Japanese guests specifically mentioned great drinks at the rooftop bar.",
+      "category": "dining",
+      "review_evidence": 15
+    },
+    {
+      "question": "Is there a mosque nearby?",
+      "answer": "Yes, there is a mosque next to the hotel. Some guests have mentioned the call to prayer can be heard in rooms, contributing to noise concerns.",
+      "category": "location",
+      "review_evidence": 10
+    },
+    {
+      "question": "Is the hotel good for digital nomads?",
+      "answer": "Partially. WiFi is available and the lobby/rooftop are comfortable for working. However, some reviews mention internet could be more reliable for heavy work use.",
+      "category": "business",
+      "review_evidence": 8
+    },
+    {
+      "question": "Does the hotel provide toiletries?",
+      "answer": "Yes. Guests mention amenities are complete with towels, linens, and bathroom essentials.",
+      "category": "rooms",
+      "review_evidence": 15
+    },
+    {
+      "question": "What languages do the staff speak?",
+      "answer": "Primarily Indonesian. Some staff speak basic English. International guests have noted this as an area for improvement.",
+      "category": "service",
+      "review_evidence": 8
+    },
+    {
+      "question": "Is the hotel near Alas Purwo National Park?",
+      "answer": "Alas Purwo National Park is on the southeastern tip of Banyuwangi, approximately 2 hours drive from the hotel.",
+      "category": "location",
+      "review_evidence": 3
+    },
+    {
+      "question": "What is unique about Kokoon Hotel?",
+      "answer": "Guests highlight the combination of modern design, rooftop bar, indoor pool, EV charging, Starbucks on-site, and exceptional staff service as unique selling points.",
+      "category": "general",
+      "review_evidence": 50
+    },
+    {
+      "question": "Is there a convenience store nearby?",
+      "answer": "The hotel is slightly outside the city center, so convenience stores may require a short drive. The hotel itself has a cafe and Starbucks.",
+      "category": "location",
+      "review_evidence": 5
+    },
+    {
+      "question": "How are the beds?",
+      "answer": "Beds are described as comfortable, large, and clean. 'Spring bed nyaman' and 'great comfortable bed' are common phrases.",
+      "category": "rooms",
+      "review_evidence": 30
+    },
+    {
+      "question": "Does the hotel have a minibar?",
+      "answer": "Room amenities and minibar details should be confirmed with the hotel. Guest reviews do not specifically address this.",
+      "category": "rooms",
+      "review_evidence": 2
+    },
+    {
+      "question": "Is there room service available 24 hours?",
+      "answer": "Room service is mentioned positively in reviews. Specific hours should be confirmed with the hotel.",
+      "category": "service",
+      "review_evidence": 10
+    },
+    {
+      "question": "Can the hotel help with tour bookings?",
+      "answer": "Yes. Multiple guests confirm the staff helped arrange tours including Ijen and Baluran.",
+      "category": "activities",
+      "review_evidence": 30
+    },
+    {
+      "question": "Is the hotel good for a school holiday trip?",
+      "answer": "Yes. Families have used the hotel for school holiday trips, with kids enjoying the pool and kids club.",
+      "category": "family",
+      "review_evidence": 15
+    },
+    {
+      "question": "Does the hotel have a business center?",
+      "answer": "Yes. Meeting facilities and business services are available.",
+      "category": "business",
+      "review_evidence": 10
+    },
+    {
+      "question": "Are there nearby attractions within walking distance?",
+      "answer": "The hotel is not centrally located, so most attractions require transport. However, the neighborhood offers local views and the hotel itself has complete facilities.",
+      "category": "location",
+      "review_evidence": 10
+    },
+    {
+      "question": "What is the best room for couples?",
+      "answer": "Deluxe King rooms with a double/king bed and balcony rooms are recommended for couples. The romantic rooftop dining is an added benefit.",
+      "category": "romance",
+      "review_evidence": 15
+    },
+    {
+      "question": "Is the hotel suitable for large groups?",
+      "answer": "Yes. The hotel has spacious common areas, multiple dining options, and can accommodate groups. Corporate groups have praised the experience.",
+      "category": "groups",
+      "review_evidence": 15
+    },
+    {
+      "question": "Does the hotel have WiFi in rooms?",
+      "answer": "Yes, WiFi is available throughout the hotel including rooms.",
+      "category": "facilities",
+      "review_evidence": 47
+    },
+    {
+      "question": "Is the hotel safe for children?",
+      "answer": "Yes, the hotel is family-friendly with a kids club, play area, and pool. Staff are attentive to children's needs.",
+      "category": "family",
+      "review_evidence": 20
+    },
+    {
+      "question": "Can I get a late checkout?",
+      "answer": "Late checkout policies should be discussed with the front desk. Reviews don't specifically address this.",
+      "category": "service",
+      "review_evidence": 3
+    },
+    {
+      "question": "Is breakfast served early enough for Ijen tour?",
+      "answer": "Yes. The hotel provides early breakfast service for guests doing the Ijen sunrise trek, typically starting as early as 2-3 AM.",
+      "category": "dining",
+      "review_evidence": 15
+    },
+    {
+      "question": "What type of cuisine does the restaurant serve?",
+      "answer": "The Ijen Restaurant serves Indonesian cuisine including nasi goreng, rawon, and international dishes. Reviews mention both local and Western options.",
+      "category": "dining",
+      "review_evidence": 30
+    },
+    {
+      "question": "How is the hotel for a stay during Ramadan?",
+      "answer": "No specific reviews mention Ramadan. As an Indonesian hotel, sahur and buka puasa services are likely available during Ramadan.",
+      "category": "general",
+      "review_evidence": 2
+    },
+    {
+      "question": "Does the hotel have Netflix or streaming in rooms?",
+      "answer": "Not mentioned in reviews. Smart TV availability should be confirmed with the hotel.",
+      "category": "rooms",
+      "review_evidence": 0
+    },
+    {
+      "question": "Is there a doctor on call?",
+      "answer": "Not specifically mentioned, but 4-star hotels typically have medical assistance available. Confirmation recommended.",
+      "category": "service",
+      "review_evidence": 0
+    },
+    {
+      "question": "How is the hotel for a one-night transit stay?",
+      "answer": "Excellent. Transit guests rate the hotel highly for convenient location, efficient check-in/out, and comfortable rooms.",
+      "category": "transit",
+      "review_evidence": 175
+    },
+    {
+      "question": "Is the hotel close to the traditional village Kemiren?",
+      "answer": "Kemiren Traditional Village is approximately 20 minutes drive from the hotel — a recommended cultural experience.",
+      "category": "location",
+      "review_evidence": 5
+    },
+    {
+      "question": "How is the air conditioning in rooms?",
+      "answer": "AC is generally good, though some guests noted the AC in the kids play room could be cooler.",
+      "category": "rooms",
+      "review_evidence": 10
+    },
+    {
+      "question": "Does the hotel provide drinking water?",
+      "answer": "Some reviews mention that drinking water is chargeable, which some guests found unexpected for a 4-star property.",
+      "category": "dining",
+      "review_evidence": 5
+    },
+    {
+      "question": "Is there a minimart or shop in the hotel?",
+      "answer": "Starbucks is available in the lobby. A full minimart/convenience store within the hotel is not mentioned in reviews.",
+      "category": "facilities",
+      "review_evidence": 5
+    },
+    {
+      "question": "How is the hotel for an extended stay (1 week+)?",
+      "answer": "Guests have extended their stays (some added 3 more nights after the initial booking), indicating comfort for longer stays.",
+      "category": "staycation",
+      "review_evidence": 10
+    },
+    {
+      "question": "Does the hotel provide shuttle to the port?",
+      "answer": "Transport can be arranged. Specific port shuttle service should be confirmed with the hotel.",
+      "category": "service",
+      "review_evidence": 8
+    },
+    {
+      "question": "Is the hotel good for cycling trips?",
+      "answer": "Banyuwangi is popular for cycling. The hotel can assist with bike rentals/arrangements.",
+      "category": "activities",
+      "review_evidence": 5
+    },
+    {
+      "question": "What is the atmosphere of the hotel?",
+      "answer": "Described as modern, calm, peaceful, and aesthetic. The high-ceiling lobby creates a grand impression, while the rooftop offers a vibrant atmosphere in the evening.",
+      "category": "ambience",
+      "review_evidence": 200
+    },
+    {
+      "question": "Does the hotel have a halal certificate?",
+      "answer": "As a hotel in Indonesia, food served is halal. Specific certification details should be confirmed.",
+      "category": "dining",
+      "review_evidence": 2
+    },
+    {
+      "question": "How does Kokoon compare to other Banyuwangi hotels?",
+      "answer": "Guests who previously stayed at other hotels (e.g., Aston Banyuwangi) and switched to Kokoon reported being more satisfied. Many declare it 'the best hotel in Banyuwangi'.",
+      "category": "general",
+      "review_evidence": 30
+    },
+    {
+      "question": "What is the best room for sunrise views?",
+      "answer": "Higher floor rooms facing east and the rooftop (16th floor) offer the best sunrise views. Some room types mention rooftop access for sunrise viewing.",
+      "category": "view",
+      "review_evidence": 20
+    },
+    {
+      "question": "Are towels and linens clean?",
+      "answer": "Yes, guests consistently mention towels and linen are clean, fresh, and well-maintained.",
+      "category": "cleanliness",
+      "review_evidence": 30
+    },
+    {
+      "question": "What is the check-in process like?",
+      "answer": "Check-in is described as fast, efficient, and smooth. The staff handles the process professionally.",
+      "category": "service",
+      "review_evidence": 80
+    },
+    {
+      "question": "Does the hotel serve local Banyuwangi cuisine?",
+      "answer": "Yes. The restaurant serves Indonesian cuisine including local specialties. Breakfast includes local dishes.",
+      "category": "dining",
+      "review_evidence": 20
+    },
+    {
+      "question": "Is the hotel crowded during weekends?",
+      "answer": "Weekend stays are popular. Some reviews during peak times mention noise from other guests, but overall the hotel manages crowd well.",
+      "category": "general",
+      "review_evidence": 10
+    },
+    {
+      "question": "Does the hotel have a good atmosphere for working?",
+      "answer": "The lobby, cafe, and rooftop provide comfortable spaces for working with WiFi available.",
+      "category": "business",
+      "review_evidence": 10
+    },
+    {
+      "question": "What is the distance to Sukamade Turtle Beach?",
+      "answer": "Sukamade Beach is approximately 3 hours drive from the hotel on the south coast.",
+      "category": "location",
+      "review_evidence": 2
+    },
+    {
+      "question": "Are there any mosquitoes in the rooms?",
+      "answer": "Not specifically mentioned. As a clean modern hotel, this is not highlighted as an issue.",
+      "category": "cleanliness",
+      "review_evidence": 1
+    },
+    {
+      "question": "Does the hotel offer anniversary packages?",
+      "answer": "Not specifically mentioned in reviews. Couples celebrate special occasions here; specific packages can be inquired.",
+      "category": "romance",
+      "review_evidence": 3
+    },
+    {
+      "question": "What activities are available near the hotel?",
+      "answer": "Activities include: Ijen sunrise trekking (1h drive), Baluran safari (1.5h), Pulau Merah surfing (45min), De Djawatan forest (30min), city tours, and cultural visits to Kemiren Village.",
+      "category": "activities",
+      "review_evidence": 30
+    },
+    {
+      "question": "Is the hotel environment friendly?",
+      "answer": "Eco-friendly design is mentioned in some reviews as a positive aspect of the hotel.",
+      "category": "sustainability",
+      "review_evidence": 5
+    },
+    {
+      "question": "Can non-guests use the restaurant?",
+      "answer": "The restaurants (Ijen Restaurant and Rooftop) appear to be open to non-guests based on review patterns, but confirmation is recommended.",
+      "category": "dining",
+      "review_evidence": 3
+    },
+    {
+      "question": "Does the hotel accept walk-in bookings?",
+      "answer": "As a standard hotel, walk-in bookings are likely accepted. Online booking is more common based on review sources.",
+      "category": "booking",
+      "review_evidence": 2
+    },
+    {
+      "question": "How is the mobile reception inside the hotel?",
+      "answer": "Not specifically mentioned. WiFi is available throughout.",
+      "category": "facilities",
+      "review_evidence": 1
+    },
+    {
+      "question": "What payment methods are accepted?",
+      "answer": "Standard payment methods for Indonesian 4-star hotels apply. Specific methods should be confirmed.",
+      "category": "general",
+      "review_evidence": 1
+    },
+    {
+      "question": "How does Kokoon handle guest complaints?",
+      "answer": "Reviews show the General Manager responds personally to complaints and feedback, indicating active guest relations management.",
+      "category": "service",
+      "review_evidence": 20
+    },
+    {
+      "question": "Is the hotel suitable for work retreats?",
+      "answer": "Yes. With meeting rooms, reliable WiFi, comfortable common areas, and complete facilities, the hotel is suitable for small to medium work retreats.",
+      "category": "business",
+      "review_evidence": 10
+    },
+    {
+      "question": "Are there any nearby running or jogging tracks?",
+      "answer": "The surrounding area with hills and local roads may be suitable for running. The hotel gym provides cardio equipment.",
+      "category": "fitness",
+      "review_evidence": 3
+    },
+    {
+      "question": "Does the hotel have a travel desk?",
+      "answer": "The front desk assists with tour bookings and travel arrangements, functioning as an informal travel desk.",
+      "category": "activities",
+      "review_evidence": 20
+    },
+    {
+      "question": "What is the nearest hospital?",
+      "answer": "Banyuwangi city has hospitals. Specific nearest hospital details should be obtained from the hotel.",
+      "category": "location",
+      "review_evidence": 1
+    },
+    {
+      "question": "Is there an ATM nearby?",
+      "answer": "ATMs are available in Banyuwangi city center (5 min drive). The hotel itself likely does not have an on-site ATM.",
+      "category": "location",
+      "review_evidence": 1
+    },
+    {
+      "question": "Can the hotel help with ferry tickets to Bali?",
+      "answer": "The hotel can assist with transport arrangements to Ketapang Port. Specific ferry ticket services should be confirmed.",
+      "category": "service",
+      "review_evidence": 5
+    },
+    {
+      "question": "Are the rooms equipped with a safe?",
+      "answer": "Not specifically mentioned in reviews. As a 4-star hotel, in-room safes are standard.",
+      "category": "rooms",
+      "review_evidence": 1
+    },
+    {
+      "question": "Does the hotel provide slippers and bathrobe?",
+      "answer": "Amenities include towels and linens. Slippers and bathrobes should be confirmed with the hotel.",
+      "category": "rooms",
+      "review_evidence": 2
+    },
+    {
+      "question": "Is the pool heated?",
+      "answer": "The indoor pool water is described as cold by some guests. Heated pool is not confirmed.",
+      "category": "facilities",
+      "review_evidence": 10
+    },
+    {
+      "question": "How is the hotel for celebrating birthdays?",
+      "answer": "Guests have celebrated special occasions at the hotel. The staff is reportedly accommodating for celebrations.",
+      "category": "events",
+      "review_evidence": 5
+    },
+    {
+      "question": "Does the hotel have a bar?",
+      "answer": "Yes. The rooftop bar on the 16th floor serves drinks with panoramic views.",
+      "category": "dining",
+      "review_evidence": 30
+    },
+    {
+      "question": "Is the hotel near Red Island (Pulau Merah)?",
+      "answer": "Pulau Merah is approximately 45 minutes drive from the hotel — a popular surfing destination.",
+      "category": "location",
+      "review_evidence": 5
+    },
+    {
+      "question": "Can I do a day trip to Bali from the hotel?",
+      "answer": "Yes. The hotel is 15 minutes from Ketapang Port, making day trips to Bali (Gilimanuk) feasible via the regular ferry service.",
+      "category": "location",
+      "review_evidence": 20
+    },
+    {
+      "question": "How is the hotel for honeymoon couples?",
+      "answer": "Excellent. Honeymooners rate the hotel 97.2/100 on average. The romantic ambiance, rooftop dining, spa, and comfortable rooms make it ideal.",
+      "category": "romance",
+      "review_evidence": 30
+    },
+    {
+      "question": "Does the hotel have a smoking area?",
+      "answer": "Not specifically mentioned. As a modern hotel, smoking is likely restricted to designated areas.",
+      "category": "facilities",
+      "review_evidence": 0
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Standard hotel cancellation policies apply. Specifics should be confirmed at booking.",
+      "category": "booking",
+      "review_evidence": 1
+    },
+    {
+      "question": "Is the hotel near the Banyuwangi night festival area?",
+      "answer": "Banyuwangi city center (where festivals occur) is about 5 km from the hotel.",
+      "category": "location",
+      "review_evidence": 3
+    },
+    {
+      "question": "What makes Kokoon the best hotel in Banyuwangi?",
+      "answer": "Guests consistently cite: modern cleanliness, exceptional staff, rooftop bar views, complete facilities (pool, gym, spa, EV charging, Starbucks), strategic location, and good value for money.",
+      "category": "general",
+      "review_evidence": 100
+    },
+    {
+      "question": "Does the hotel have a loyalty program?",
+      "answer": "Not mentioned in reviews. Repeat guests are common, indicating satisfaction.",
+      "category": "general",
+      "review_evidence": 10
+    },
+    {
+      "question": "Is the hotel good for a birthday surprise for spouse?",
+      "answer": "The romantic setting and accommodating staff make it suitable for birthday celebrations and surprises.",
+      "category": "romance",
+      "review_evidence": 3
+    },
+    {
+      "question": "How is the hotel on New Year's Eve?",
+      "answer": "Not specifically mentioned. The rooftop bar likely offers New Year's Eve celebrations.",
+      "category": "events",
+      "review_evidence": 1
+    },
+    {
+      "question": "Does the hotel have bicycles for guests?",
+      "answer": "Banyuwangi is cycle-friendly. Hotel bike availability should be confirmed.",
+      "category": "activities",
+      "review_evidence": 2
+    },
+    {
+      "question": "What is the nearest beach for swimming?",
+      "answer": "Pulau Merah (45 min) has good swimming. The hotel itself is not on the beach.",
+      "category": "location",
+      "review_evidence": 5
+    },
+    {
+      "question": "Does the hotel have meeting rooms with projectors?",
+      "answer": "Meeting facilities with AV equipment are standard for 4-star business hotels.",
+      "category": "business",
+      "review_evidence": 5
+    },
+    {
+      "question": "Is the hotel good for Instagram photos?",
+      "answer": "Yes. The aesthetic design, rooftop views, and lobby create Instagram-worthy photo opportunities.",
+      "category": "design",
+      "review_evidence": 20
+    },
+    {
+      "question": "Are the staff helpful with luggage?",
+      "answer": "Yes. Bellboy service and helpful staff are mentioned positively in reviews.",
+      "category": "service",
+      "review_evidence": 10
+    },
+    {
+      "question": "What is the elevator situation?",
+      "answer": "The hotel has elevators. The building is 16 floors with multiple elevators.",
+      "category": "facilities",
+      "review_evidence": 5
+    },
+    {
+      "question": "Does the hotel have a prayer room (musholla)?",
+      "answer": "Muslim-friendly facilities including a prayer room are standard for Indonesian hotels.",
+      "category": "facilities",
+      "review_evidence": 2
+    },
+    {
+      "question": "Can I use the pool at night?",
+      "answer": "Pool operating hours should be confirmed with the hotel. Indoor pool hours may be limited.",
+      "category": "facilities",
+      "review_evidence": 2
+    },
+    {
+      "question": "How is the hotel for photography?",
+      "answer": "Excellent. The modern architecture, rooftop views, mountain backdrop, and interior design offer great photography opportunities.",
+      "category": "design",
+      "review_evidence": 10
+    },
+    {
+      "question": "Is there a dress code at the rooftop restaurant?",
+      "answer": "Not mentioned. Casual smart is appropriate for the rooftop dining.",
+      "category": "dining",
+      "review_evidence": 1
+    },
+    {
+      "question": "Does the hotel offer cooking classes?",
+      "answer": "Not mentioned in reviews.",
+      "category": "activities",
+      "review_evidence": 0
+    },
+    {
+      "question": "How are the pillows?",
+      "answer": "Pillows and bedding are mentioned as comfortable in guest reviews.",
+      "category": "rooms",
+      "review_evidence": 10
+    },
+    {
+      "question": "Is the hotel close to the Banyuwangi Botanical Garden?",
+      "answer": "Banyuwangi Botanical Garden (Kebun Raya Banyuwangi) is near the city center area, about 10-15 min drive.",
+      "category": "location",
+      "review_evidence": 2
+    },
+    {
+      "question": "Does the hotel provide adaptors for international guests?",
+      "answer": "Indonesian standard sockets. International adaptors may be available at the front desk.",
+      "category": "rooms",
+      "review_evidence": 2
+    },
+    {
+      "question": "What is the best way to get to the hotel from the airport?",
+      "answer": "Taxi or ride-sharing (Grab/Gojek) from Blimbingsari Airport. The hotel is about 15 minutes away.",
+      "category": "transportation",
+      "review_evidence": 10
+    },
+    {
+      "question": "Does the hotel have self-service laundry?",
+      "answer": "Full laundry service is available. Self-service laundry is not mentioned.",
+      "category": "service",
+      "review_evidence": 3
+    },
+    {
+      "question": "Is the hotel near a supermarket?",
+      "answer": "Supermarkets are in Banyuwangi city center, about 5 km from the hotel.",
+      "category": "location",
+      "review_evidence": 2
+    },
+    {
+      "question": "Can the hotel arrange a private driver for sightseeing?",
+      "answer": "Yes. Reviews mention the hotel arranges tours and transport including private drivers.",
+      "category": "service",
+      "review_evidence": 8
+    },
+    {
+      "question": "Does the hotel have a balcony in every room?",
+      "answer": "Only specific room types (Deluxe Balcony) have balconies. Not all rooms.",
+      "category": "rooms",
+      "review_evidence": 10
+    },
+    {
+      "question": "What is the view from the family room?",
+      "answer": "Family rooms may face different directions. Mountain views are possible from higher floors.",
+      "category": "rooms",
+      "review_evidence": 5
+    },
+    {
+      "question": "Is the hotel good for a surprise proposal?",
+      "answer": "The romantic rooftop setting with sunset views makes it suitable for proposals. Staff can likely assist with arrangements.",
+      "category": "romance",
+      "review_evidence": 3
+    },
+    {
+      "question": "How much is breakfast for children?",
+      "answer": "One review mentions breakfast charge for children at IDR 130k, noting it's not worth it for kids.",
+      "category": "family",
+      "review_evidence": 5
+    },
+    {
+      "question": "Does the hotel offer glamping or unique stays?",
+      "answer": "Standard hotel rooms only. No glamping mentioned.",
+      "category": "rooms",
+      "review_evidence": 0
+    },
+    {
+      "question": "What is the cancellation policy for Ijen tour through hotel?",
+      "answer": "Not specified. Should be confirmed when booking the tour through the front desk.",
+      "category": "activities",
+      "review_evidence": 2
+    },
+    {
+      "question": "How does the hotel handle overbooking?",
+      "answer": "Not mentioned in reviews. Overbooking is not flagged as an issue.",
+      "category": "service",
+      "review_evidence": 0
+    },
+    {
+      "question": "Is there a night market near the hotel?",
+      "answer": "Night markets are in Banyuwangi city center. The hotel may need transport to reach them.",
+      "category": "location",
+      "review_evidence": 2
+    }
+  ]
+}

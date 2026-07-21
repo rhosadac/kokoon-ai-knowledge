@@ -1,0 +1,192 @@
+{
+  "total_reviews": 4622,
+  "total_reviews_with_text": 4622,
+  "total_raw_reviews": 6572,
+  "rating_distribution": {
+    "100": 3006,
+    "90-99": 743,
+    "80-89": 589,
+    "70-79": 76,
+    "60-69": 90,
+    "50-59": 14,
+    "0-49": 104
+  },
+  "average_score": 93.4,
+  "median_score": 100.0,
+  "sentiment_distribution": {
+    "positive": 4338,
+    "positive_pct": 93.9,
+    "neutral": 180,
+    "neutral_pct": 3.9,
+    "negative": 104,
+    "negative_pct": 2.3
+  },
+  "language_distribution": {
+    "English": 2536,
+    "Indonesian": 1982,
+    "French": 68,
+    "Chinese": 31,
+    "Japanese": 5,
+    "German": 3,
+    "Spanish": 2
+  },
+  "source_distribution": {
+    "google.com": 1556,
+    "agoda.com": 919,
+    "TrustYou Survey": 654,
+    "tripadvisor.com": 526,
+    "tiket.com": 355,
+    "traveloka.com": 339,
+    "booking.com": 249,
+    "expedia.com": 14,
+    "de.hotels.com": 8,
+    "orbitz.com": 2
+  },
+  "date_range": {
+    "start": "2020-07-03",
+    "end": "2026-07-19"
+  },
+  "most_mentioned_topics": [
+    {
+      "topic": "Staff & Service",
+      "count": 1874
+    },
+    {
+      "topic": "Room Quality",
+      "count": 1788
+    },
+    {
+      "topic": "Cleanliness",
+      "count": 1546
+    },
+    {
+      "topic": "Breakfast",
+      "count": 1016
+    },
+    {
+      "topic": "Restaurant & Dining",
+      "count": 938
+    },
+    {
+      "topic": "Staycation & Vacation",
+      "count": 839
+    },
+    {
+      "topic": "Views",
+      "count": 746
+    },
+    {
+      "topic": "Location",
+      "count": 508
+    },
+    {
+      "topic": "Family Travel",
+      "count": 479
+    },
+    {
+      "topic": "Swimming Pool",
+      "count": 385
+    }
+  ],
+  "top_keywords": [
+    "the",
+    "hotel",
+    "dan",
+    "and",
+    "di",
+    "is",
+    "to",
+    "yang",
+    "sangat",
+    "kamar",
+    "a",
+    "in",
+    "for",
+    "was",
+    "very",
+    "good",
+    "ada",
+    "yg",
+    "i",
+    "room",
+    "untuk",
+    "kokoon",
+    "juga",
+    "staff",
+    "of",
+    "breakfast",
+    "banyuwangi",
+    "dengan",
+    "nya",
+    "we",
+    "ke",
+    "saya",
+    "with",
+    "pelayanan",
+    "bagus",
+    "stay",
+    "nyaman",
+    "dari",
+    "are",
+    "view",
+    "bersih",
+    "nice",
+    "this",
+    "tidak",
+    "ramah",
+    "makanan",
+    "fasilitas",
+    "bisa",
+    "at",
+    "it"
+  ],
+  "top_bigrams": [
+    "kokoon hotel",
+    "the room",
+    "and the",
+    "the hotel",
+    "bersih dan",
+    "menginap di",
+    "in the",
+    "of the",
+    "this hotel",
+    "the staff",
+    "ramah dan",
+    "di hotel",
+    "hotel is",
+    "the best",
+    "hotel ini",
+    "clean and",
+    "room is",
+    "to stay",
+    "hotel yang",
+    "from the",
+    "di banyuwangi",
+    "nyaman dan",
+    "check in",
+    "hotel in",
+    "for the",
+    "is very",
+    "ke banyuwangi",
+    "room was",
+    "bagus dan",
+    "kolam renang"
+  ],
+  "top_trigrams": [
+    "the hotel is",
+    "the room is",
+    "the room was",
+    "kokoon hotel banyuwangi",
+    "menginap di hotel",
+    "the staff are",
+    "sangat ramah dan",
+    "di hotel ini",
+    "menginap di kokoon",
+    "kamar bersih dan",
+    "hotel in banyuwangi",
+    "the best hotel",
+    "this hotel is",
+    "di hotel kokoon",
+    "di kokoon hotel"
+  ]
+}

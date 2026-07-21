@@ -1,0 +1,341 @@
+{
+  "total_reviews_analyzed": 4622,
+  "topics": {
+    "staff": {
+      "count": 1874,
+      "positive": 1748,
+      "negative": 61,
+      "neutral": 65,
+      "avg_score": 93.1,
+      "sample_texts": [
+        "Hotelnya sangat nyaman, bersih, dan modern. Fasilitasnya lengkap, terutama kolam renang indoor-nya yang bagus banget. Pelayanannya ramah dan responsif, sangat direkomendasikan kalau lagi berlibur ke B",
+        "Highly recommend this hotel we would definitely stay again! \nSuper clean and the most friendly, helpful staff in every part of the hotel.",
+        "Hotelnya nyaman dan bersih, fasilitasnya lengkap sesuai hotel bintang 4. Stafnya ramah, proses check-in cepat, dan sarapannya juga enak.",
+        "Menginap di sini sangat menyenangkan. Kamarnya rapi, tempat tidurnya nyaman, fasilitas lengkap, dan pelayanan dari seluruh staf sangat baik. Pasti ingin menginap lagi.",
+        "Sangat puas menginap di hotel ini. Kamarnya bersih, nyaman. Staf hotel ramah serta proses check-in berlangsung cepat. Sarapannya juga enak dengan pilihan menu yang beragam."
+      ],
+      "positive_pct": 93.3,
+      "negative_pct": 3.3
+    },
+    "room": {
+      "count": 1788,
+      "positive": 1657,
+      "negative": 45,
+      "neutral": 86,
+      "avg_score": 92.7,
+      "sample_texts": [
+        "Kamarnya bagus, mewah, bersih. Rooftop untuk liat sunrisenya juga oke. Poolnya juga luas. Ada cafe lega bisa buat kerja disamping pool. Belakang hotel rumah2 penduduk view gunung. Tapi lokasi hotel ag",
+        "Lokasi dekat airport, kamar luas tp minus di makanan sih, not taste good dan yg habis gak langsung di refill",
+        "Kamar bersih, luas, dan desainnya estetik banget. Proses check-in dan check-out juga cepat tanpa ribet. Suasananya tenang, cocok buat yang mau istirahat dengan nyaman.",
+        "Menginap di sini sangat menyenangkan. Kamarnya rapi, tempat tidurnya nyaman, fasilitas lengkap, dan pelayanan dari seluruh staf sangat baik. Pasti ingin menginap lagi.",
+        "Sangat puas menginap di hotel ini. Kamarnya bersih, nyaman. Staf hotel ramah serta proses check-in berlangsung cepat. Sarapannya juga enak dengan pilihan menu yang beragam."
+      ],
+      "positive_pct": 92.7,
+      "negative_pct": 2.5
+    },
+    "cleanliness": {
+      "count": 1546,
+      "positive": 1497,
+      "negative": 11,
+      "neutral": 38,
+      "avg_score": 95.2,
+      "sample_texts": [
+        "Kamarnya bagus, mewah, bersih. Rooftop untuk liat sunrisenya juga oke. Poolnya juga luas. Ada cafe lega bisa buat kerja disamping pool. Belakang hotel rumah2 penduduk view gunung. Tapi lokasi hotel ag",
+        "Kamar bersih, luas, dan desainnya estetik banget. Proses check-in dan check-out juga cepat tanpa ribet. Suasananya tenang, cocok buat yang mau istirahat dengan nyaman.",
+        "Hotelnya sangat nyaman, bersih, dan modern. Fasilitasnya lengkap, terutama kolam renang indoor-nya yang bagus banget. Pelayanannya ramah dan responsif, sangat direkomendasikan kalau lagi berlibur ke B",
+        "Highly recommend this hotel we would definitely stay again! \nSuper clean and the most friendly, helpful staff in every part of the hotel.",
+        "Hotelnya nyaman dan bersih, fasilitasnya lengkap sesuai hotel bintang 4. Stafnya ramah, proses check-in cepat, dan sarapannya juga enak."
+      ],
+      "positive_pct": 96.8,
+      "negative_pct": 0.7
+    },
+    "breakfast": {
+      "count": 1016,
+      "positive": 948,
+      "negative": 18,
+      "neutral": 50,
+      "avg_score": 92.7,
+      "sample_texts": [
+        "Sarapan varian biasa saja",
+        "Hotelnya nyaman dan bersih, fasilitasnya lengkap sesuai hotel bintang 4. Stafnya ramah, proses check-in cepat, dan sarapannya juga enak.",
+        "Sangat puas menginap di hotel ini. Kamarnya bersih, nyaman. Staf hotel ramah serta proses check-in berlangsung cepat. Sarapannya juga enak dengan pilihan menu yang beragam.",
+        "Sehr sauber und gutes Frühstücksbuffet",
+        "Hotel bintang 4 yang layak direkomendasikan. Proses check-in cepat, suasana hotel tenang, sarapannya enak, dan staf selalu sigap membantu. Pengalaman menginapnya sangat memuaskan."
+      ],
+      "positive_pct": 93.3,
+      "negative_pct": 1.8
+    },
+    "restaurant": {
+      "count": 938,
+      "positive": 872,
+      "negative": 30,
+      "neutral": 36,
+      "avg_score": 92.7,
+      "sample_texts": [
+        "Kamarnya bagus, mewah, bersih. Rooftop untuk liat sunrisenya juga oke. Poolnya juga luas. Ada cafe lega bisa buat kerja disamping pool. Belakang hotel rumah2 penduduk view gunung. Tapi lokasi hotel ag",
+        "Lokasi dekat airport, kamar luas tp minus di makanan sih, not taste good dan yg habis gak langsung di refill",
+        "Le petit déjeuner était immense avec énormément de choix pour un petit déjeuner asiatique.\nA l’accueil, le personnel était efficace et serviable, ils ont pu nous réserver un tour pour le mont Ijen pou",
+        "Excellent. Nyaman, tenang, sejuk, pemandangan bagus dari resto menghadap pegunungan dan bukit bukit hijau asri. Mamamia excellent.",
+        "Kami menginap di Hotel Kokoon Banyuwangi selama 3 hari 2 malam untuk liburan sekolah. First impression saya ketika memasuki lobby, dengan ceiling yang tinggi, terkesan adem, simple namun tetap elegan."
+      ],
+      "positive_pct": 93.0,
+      "negative_pct": 3.2
+    },
+    "staycation": {
+      "count": 839,
+      "positive": 798,
+      "negative": 16,
+      "neutral": 25,
+      "avg_score": 94.3,
+      "sample_texts": [
+        "Kamar bersih, luas, dan desainnya estetik banget. Proses check-in dan check-out juga cepat tanpa ribet. Suasananya tenang, cocok buat yang mau istirahat dengan nyaman.",
+        "Hotelnya sangat nyaman, bersih, dan modern. Fasilitasnya lengkap, terutama kolam renang indoor-nya yang bagus banget. Pelayanannya ramah dan responsif, sangat direkomendasikan kalau lagi berlibur ke B",
+        "Highly recommend this hotel we would definitely stay again! \nSuper clean and the most friendly, helpful staff in every part of the hotel.",
+        "Always stay in Kokoon everytime we went to Banyuwangi. Recommended 👌",
+        "cocok buat staycation disini"
+      ],
+      "positive_pct": 95.1,
+      "negative_pct": 1.9
+    },
+    "view": {
+      "count": 746,
+      "positive": 720,
+      "negative": 8,
+      "neutral": 18,
+      "avg_score": 94.8,
+      "sample_texts": [
+        "Kamarnya bagus, mewah, bersih. Rooftop untuk liat sunrisenya juga oke. Poolnya juga luas. Ada cafe lega bisa buat kerja disamping pool. Belakang hotel rumah2 penduduk view gunung. Tapi lokasi hotel ag",
+        "Nice view from my room",
+        "Excellent. Nyaman, tenang, sejuk, pemandangan bagus dari resto menghadap pegunungan dan bukit bukit hijau asri. Mamamia excellent.",
+        "Well kept cleanliness. Beautiful views. Lively nightlife atmosphere. Clean and tidy room. Friendly parking service.",
+        "Cukup memuaskan dan bervibes ,bakal jadi pemandangan Ter estetik"
+      ],
+      "positive_pct": 96.5,
+      "negative_pct": 1.1
+    },
+    "location": {
+      "count": 508,
+      "positive": 478,
+      "negative": 10,
+      "neutral": 20,
+      "avg_score": 93.2,
+      "sample_texts": [
+        "Kamarnya bagus, mewah, bersih. Rooftop untuk liat sunrisenya juga oke. Poolnya juga luas. Ada cafe lega bisa buat kerja disamping pool. Belakang hotel rumah2 penduduk view gunung. Tapi lokasi hotel ag",
+        "Lokasi dekat airport, kamar luas tp minus di makanan sih, not taste good dan yg habis gak langsung di refill",
+        "Lokasi strategis, recomended untuk stay liburan di Banyuwangi",
+        "Kami menginap di Hotel Kokoon Banyuwangi selama 3 hari 2 malam untuk liburan sekolah. First impression saya ketika memasuki lobby, dengan ceiling yang tinggi, terkesan adem, simple namun tetap elegan.",
+        "Salah satu hotel terbaik di Banyuwangi. Tiga kali trip di Banyuwangi, dan yang ketiga nyoba Dikokoon Hotel. Hotel yang nyaman, harum, makanan bervariasi. Sedikit masukan untuk welcome drink, sepertiny"
+      ],
+      "positive_pct": 94.1,
+      "negative_pct": 2.0
+    },
+    "family": {
+      "count": 479,
+      "positive": 445,
+      "negative": 14,
+      "neutral": 20,
+      "avg_score": 92.8,
+      "sample_texts": [
+        "Menginap di sini sangat nyaman. Kamarnya bersih, fasilitas lengkap, dan pelayanannya ramah. Cocok untuk perjalanan bisnis maupun liburan bersama keluarga",
+        "saya menginap di family room 503.semuanya baik cuma AIR saja yg kurang keras keluarnya dan air panas kurang stabil bisa TIBA TIBA DINGIN atau PANAS.",
+        "Kamar sangat bersih.. Pelayanan luar biasa.. Cafe rooftopnya jg sangat nyaman.. Kamat tipe family sangat nyaman buat krluarga",
+        "Staff hotel ramah-ramah, sangat membantu. Kamar juga bersih banget. Cuma ada sedikit saran, AC untuk ruang bermain anak nggak dingin. Tadi dipakai main 2 anak dan pendamping 2 orang dewasa rasanya ger",
+        "Hotel nya bagus sih….bersih…cm gak kedap suara, klo pas penuh kyk pas sy nginap kali ini suara dr lantai atas dari kamar samping.. org lewat ngobrol,anak kecil teriak2, suara musik kenceng, suara sand"
+      ],
+      "positive_pct": 92.9,
+      "negative_pct": 2.9
+    },
+    "swimming_pool": {
+      "count": 385,
+      "positive": 370,
+      "negative": 4,
+      "neutral": 11,
+      "avg_score": 94.6,
+      "sample_texts": [
+        "Kamarnya bagus, mewah, bersih. Rooftop untuk liat sunrisenya juga oke. Poolnya juga luas. Ada cafe lega bisa buat kerja disamping pool. Belakang hotel rumah2 penduduk view gunung. Tapi lokasi hotel ag",
+        "Hotelnya sangat nyaman, bersih, dan modern. Fasilitasnya lengkap, terutama kolam renang indoor-nya yang bagus banget. Pelayanannya ramah dan responsif, sangat direkomendasikan kalau lagi berlibur ke B",
+        "Kolam renang indoor",
+        "Semua spektakuler, syangnya bagi sy kolam berada d dlam gedung, airnya jadi lumayan duingin, 😁",
+        "Our family loves this hotel. Breakfast, kids club and pool are so good"
+      ],
+      "positive_pct": 96.1,
+      "negative_pct": 1.0
+    },
+    "bathroom": {
+      "count": 372,
+      "positive": 327,
+      "negative": 15,
+      "neutral": 30,
+      "avg_score": 89.7,
+      "sample_texts": [
+        "Lokasi dekat airport, kamar luas tp minus di makanan sih, not taste good dan yg habis gak langsung di refill",
+        "This hotel is located between airport and city, which is really convenient.",
+        "saya menginap di family room 503.semuanya baik cuma AIR saja yg kurang keras keluarnya dan air panas kurang stabil bisa TIBA TIBA DINGIN atau PANAS.",
+        "Pelayanan ramah banget, pegawainya helpful, kamarnya bersih luas, kamar mandinya oke. Next kalau ke Banyuwangi pengen nginep di sini lagi.",
+        "Semua spektakuler, syangnya bagi sy kolam berada d dlam gedung, airnya jadi lumayan duingin, 😁"
+      ],
+      "positive_pct": 87.9,
+      "negative_pct": 4.0
+    },
+    "kids": {
+      "count": 198,
+      "positive": 182,
+      "negative": 4,
+      "neutral": 12,
+      "avg_score": 92.0,
+      "sample_texts": [
+        "Staff hotel ramah-ramah, sangat membantu. Kamar juga bersih banget. Cuma ada sedikit saran, AC untuk ruang bermain anak nggak dingin. Tadi dipakai main 2 anak dan pendamping 2 orang dewasa rasanya ger",
+        "Hotel nya bagus sih….bersih…cm gak kedap suara, klo pas penuh kyk pas sy nginap kali ini suara dr lantai atas dari kamar samping.. org lewat ngobrol,anak kecil teriak2, suara musik kenceng, suara sand",
+        "Our family loves this hotel. Breakfast, kids club and pool are so good",
+        "Clean and facilities are complete, all u can eat breakfast charges of IDR 130k is not worth it for kids",
+        "Kamar nya luas untuk keluarga dengan 3 anak.  Tempat tidur nya juga sangat nyaman"
+      ],
+      "positive_pct": 91.9,
+      "negative_pct": 2.0
+    },
+    "transit": {
+      "count": 175,
+      "positive": 159,
+      "negative": 7,
+      "neutral": 9,
+      "avg_score": 91.1,
+      "sample_texts": [
+        "Menginap di sini sangat nyaman. Kamarnya bersih, fasilitas lengkap, dan pelayanannya ramah. Cocok untuk perjalanan bisnis maupun liburan bersama keluarga",
+        "Salah satu hotel terbaik di Banyuwangi. Tiga kali trip di Banyuwangi, dan yang ketiga nyoba Dikokoon Hotel. Hotel yang nyaman, harum, makanan bervariasi. Sedikit masukan untuk welcome drink, sepertiny",
+        "this is the 2nd time, we stayed here.  the first time was in June.\nWe booked 1 night but add 3 more nights at the hotel",
+        "I stayed one night at Kokoon Hotel in my journey to Bali. This is my first time staying in this hotel. Very nice hotel and its facilities. Good service. I will come back again in my next visit to Bany",
+        "Hotel dengan pelayanan yg ramah serta lokasi yg masih terjangkau untuk transit sebelum memyebrang ke bali. Kami sangat puas untuk hotel ini."
+      ],
+      "positive_pct": 90.9,
+      "negative_pct": 4.0
+    },
+    "parking": {
+      "count": 165,
+      "positive": 144,
+      "negative": 12,
+      "neutral": 9,
+      "avg_score": 88.3,
+      "sample_texts": [
+        "Setiap ke banyuwangi, inap di Kokoon. Bersih, tenang, staff ramah dan profesional. Menu sarapan oke. Parkir mobil lapang.",
+        "Well kept cleanliness. Beautiful views. Lively nightlife atmosphere. Clean and tidy room. Friendly parking service.",
+        "I recently stayed at Kokoon Hotel Banyuwangi and overall had a good experience. What I liked: • The hotel is relatively clean and well maintained. • The room was clean, comfortable, the balcony is cle",
+        "Kita memilih tipe kamar family, ranjangnya besar (king), cukup untuk 2-3 orang dewasa Kamarnya luas, kasurnya empuk, sudah smart tv, ada cooler bukan kulkas dan di berikan free snack di kamar, penceta",
+        "Excellent cleanliness. Secure parking. Prompt and attentive staff."
+      ],
+      "positive_pct": 87.3,
+      "negative_pct": 7.3
+    },
+    "business_trip": {
+      "count": 131,
+      "positive": 120,
+      "negative": 5,
+      "neutral": 6,
+      "avg_score": 92.1,
+      "sample_texts": [
+        "Kamarnya bagus, mewah, bersih. Rooftop untuk liat sunrisenya juga oke. Poolnya juga luas. Ada cafe lega bisa buat kerja disamping pool. Belakang hotel rumah2 penduduk view gunung. Tapi lokasi hotel ag",
+        "Menginap di sini sangat nyaman. Kamarnya bersih, fasilitas lengkap, dan pelayanannya ramah. Cocok untuk perjalanan bisnis maupun liburan bersama keluarga",
+        "We are a small group of three who stayed at the hotel for work. Our experience was wonderful, and we intend to bring our entire team back soon. We highly recommend this hotel for its rooms, common are",
+        "makanan enak menginap dan meeting sangat memadai fasilitas terbaik dibanyuwangi sangat nyaman dan senang, dan untuk karyawan receptionis fahmi terimakasih saya sangat nyaman atas bantuannya",
+        "Hotel yang nyaman untuk perjalanan bisnis maupun liburan keluarga. Suasananya tenang, area hotel bersih, dan pelayanan dari seluruh tim terasa profesional. Sarapannya juga beragam dan membuat pengalam"
+      ],
+      "positive_pct": 91.6,
+      "negative_pct": 3.8
+    },
+    "foreign_tourist": {
+      "count": 56,
+      "positive": 52,
+      "negative": 2,
+      "neutral": 2,
+      "avg_score": 91.8,
+      "sample_texts": [
+        "This hotel has excellent service, with friendly staff, and it is clean and comfortable. What makes it special is that there is a Starbucks in the lobby—not a regular outlet, but they serve selected St",
+        "The room was very comfortable. Luckily, I had a sunrise view. The swimming pool is spacious, has a sauna, and the changing rooms are clean. Breakfast was delicious, offering both traditional Indonesia",
+        "Hotelnya bagus banget, kamarnya juga sangat bagus, wangi, dan bersih. Dan suasana hotel sangat tenang. Apalagi breakfastnya sangatt amat lengkap mulai dari indonesian food, western , hingga japanese f",
+        "Hotelnya bagus banget, kamarnya juga sangat bagus, wangi, dan bersih. Dan suasana hotel sangat tenang. Apalagi breakfastnya sangatt amat lengkap mulai dari indonesian food, western , hingga japanese f",
+        "While the hotel is fine.. I asked for a driver to airport in Bali. It didn’t come and when I asked again it was late and I was also told wrong information .. and missed my international flight. I was "
+      ],
+      "positive_pct": 92.9,
+      "negative_pct": 3.6
+    },
+    "wedding": {
+      "count": 54,
+      "positive": 33,
+      "negative": 20,
+      "neutral": 1,
+      "avg_score": 66.8,
+      "sample_texts": [
+        "Tempatnya nyaman, kamar bersih, sprei, handuk dan printilan lainnya juga bersih, gak ada bau aneh², resepsionis ramah, okelah.. breakfastnya juga enak, overall selama aku nginep pelayanannya okee, nex",
+        "resepsionisnya tidak ramah pelayanan buruk banget, masa ada resepsionis ngatain konsumen tidak ada etika",
+        "pelayanan buruk resepsionis tidak ramah",
+        "maaf banget, waktu nikahan saudara disini makanannya kurang layak jujur karna dikasih 1 sendok gitu … saran aja mungkun isa taruh di tengah makanannya biar gk disendokin kesannya kapanan kek makanan k",
+        "Tgl 18 04 26 malam sy diundang kel.besar menje lang resepsi pernikahan 19 aprul nya di lantai 3.Pesan makanan hampir 45 menit baru keluar.Tidak ada minum air .harus bayar tambahan.Pagi hari ada Pember"
+      ],
+      "positive_pct": 61.1,
+      "negative_pct": 37.0
+    },
+    "meeting": {
+      "count": 53,
+      "positive": 43,
+      "negative": 4,
+      "neutral": 6,
+      "avg_score": 87.4,
+      "sample_texts": [
+        "makanan enak menginap dan meeting sangat memadai fasilitas terbaik dibanyuwangi sangat nyaman dan senang, dan untuk karyawan receptionis fahmi terimakasih saya sangat nyaman atas bantuannya",
+        "pernah meeting di sana, ruangan nya bagus, style nya gak norakk buat yang punya acara tapi males ribet bisa banget, kesini mulai dari A sampai z bisa di atur Terima beres.. Makanannya juga enak enak A",
+        "sungguh memalukan dan mengecwakan not recommend untuk wedding apalagi yg family style jangan rusak moment sekali seumur hidup kalian malunya seumur hidup sama para tamu undangan gak cocok buat hotel b",
+        "sungguh memalukan dan mengecwakan not recommend untuk wedding\napalagi yg family style\n\njangan rusak moment sekali seumur hidup kalian\nmalunya seumur hidup sama para tamu undangan\ngak cocok buat hotel ",
+        "Had an event here and it was chaos. We paid for the whole thing in full without any negotiations, but they still slacked. The food took so long to come out (about 1 hour ++) for an event where the foo"
+      ],
+      "positive_pct": 81.1,
+      "negative_pct": 7.5
+    },
+    "domestic_tourist": {
+      "count": 51,
+      "positive": 50,
+      "negative": 1,
+      "neutral": 0,
+      "avg_score": 93.1,
+      "sample_texts": [
+        "Checked in and the TV already said \"Welcome Home, Mr. Sony\" — signed personally by GM Weni Kristanti. That personal touch alone already made us smile.\n\nBrought the whole family here and the rooftop be",
+        "Checked in and the TV already said \"Welcome Home, Mr. Sony\" — signed personally by GM Weni Kristanti. That personal touch alone already made us smile.\n\nBrought the whole family here and the rooftop be",
+        "My recent stay at the Kokoon Hotel in Banyuwangi was nothing short of exceptional. The property boasts a striking and sophisticated design, seamlessly blending modern elegance with absolute comfort. S",
+        "Suasana kamar nyaman, dan cocok untuk bekerja sambil istirahat, makanan lezat dengan bbrp menu lokal, pemandangan dari kamar bagus",
+        "The room was very comfortable. Luckily, I had a sunrise view. The swimming pool is spacious, has a sauna, and the changing rooms are clean. Breakfast was delicious, offering both traditional Indonesia"
+      ],
+      "positive_pct": 98.0,
+      "negative_pct": 2.0
+    },
+    "internet": {
+      "count": 47,
+      "positive": 45,
+      "negative": 0,
+      "neutral": 2,
+      "avg_score": 94.8,
+      "sample_texts": [
+        "Pertama kali menginap di Kokoon Hotel Banyuwangi disambut dengan staff yang hangat dan ramah proses check in yang cepat dan sangat Helpful. Kamar nya yang bersih dan luas serta fasilitas yang lengkap ",
+        "Wifi kenceng. View laut dan gunung. Bersih. Staf helpfull.",
+        "Tempat nya nyaman & kamar bersih, dan memiliki Bathup Harga terjangkau, fasilitas lengkap.. mempunyai koneksi istimewa, sudah masuk kelas dunia, kokoon hotel Banyuwangi",
+        "Lokasi strategis\nParkir mobil mudah\nProses check in dan out mudah\nAda welcome drink Starbuck\nKamar deluxe lumayan luasnya, dapat view laut\nWifi lumayan\nAda smart TV\nMenu sarapan kurang variatif",
+        "- way above my expectations, a really beautiful hotel \n- smells soooo nice in the lobby, they must spray lemongrass from the ceiling or something, you kinda want to sit there and chilll\n- beautiful ro"
+      ],
+      "positive_pct": 95.7,
+      "negative_pct": 0.0
+    },
+    "honeymoon": {
+      "count": 30,
+      "positive": 30,
+      "negative": 0,
+      "neutral": 0,
+      "avg_score": 97.2,
+      "sample_texts": [
+        "Hotel satu ini cocok sekali dengan pasangan dan keluarga, bagian baratnya yg indah dengan view gunung raung dan Ijen. Fasilitas dan pelayanan yg baik dan ramah. Selamat mencoba guys, thanks Kokon see ",
+        "aku kesini untuk honeymoon, and overall is worth it to stay here..",
+        "Clean bathrooms. Exciting children's facilities. Front parking. Romantic atmosphere. Attentive and genuine staff.",
+        "We had a great stay at Kokoon Hotel Banyuwangi! The hotel is clean, comfortable, and has excellent facilities. The staff are friendly and helpful.\n\nGreat location, and excellent service. Highly recomm",
+        "Great place been here couple of times bit staff are very stiff and not flexible with any requests."
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0
+    }
+  }
+}

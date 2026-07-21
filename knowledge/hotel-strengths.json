@@ -1,0 +1,167 @@
+{
+  "strengths": [
+    {
+      "strength": "Staff friendliness and helpfulness",
+      "mention_count": 761,
+      "avg_score_when_mentioned": 95.2,
+      "evidence": [
+        "Staf sangat ramah dan membantu",
+        "Staff were super friendly",
+        "Pelayanan staf luar biasa"
+      ],
+      "category": "service"
+    },
+    {
+      "strength": "Cleanliness of rooms and facilities",
+      "mention_count": 946,
+      "avg_score_when_mentioned": 95.8,
+      "evidence": [
+        "kamar bersih",
+        "very clean",
+        "spotlessly clean"
+      ],
+      "category": "cleanliness"
+    },
+    {
+      "strength": "Modern and aesthetic room design",
+      "mention_count": 825,
+      "avg_score_when_mentioned": 94.5,
+      "evidence": [
+        "desainnya estetik banget",
+        "modern elegant design",
+        "kamar luas dan rapi"
+      ],
+      "category": "design"
+    },
+    {
+      "strength": "Roof top bar and restaurant with views",
+      "mention_count": 244,
+      "avg_score_when_mentioned": 96.0,
+      "evidence": [
+        "rooftopnya juga oke",
+        "the rooftop restaurant is very relaxing",
+        "lounge rooftop sympa"
+      ],
+      "category": "dining"
+    },
+    {
+      "strength": "Breakfast variety and quality",
+      "mention_count": 204,
+      "avg_score_when_mentioned": 93.1,
+      "evidence": [
+        "sarapannya enak",
+        "good breakfast buffet",
+        "breakfast offered decent variety"
+      ],
+      "category": "dining"
+    },
+    {
+      "strength": "Spacious rooms",
+      "mention_count": 290,
+      "avg_score_when_mentioned": 94.5,
+      "evidence": [
+        "kamar luas",
+        "spacious rooms",
+        "family room is spacious"
+      ],
+      "category": "room"
+    },
+    {
+      "strength": "Location between airport and city",
+      "mention_count": 192,
+      "avg_score_when_mentioned": 93.5,
+      "evidence": [
+        "lokasi strategis",
+        "location is convenient",
+        "hotel is located between airport and city"
+      ],
+      "category": "location"
+    },
+    {
+      "strength": "Indoor swimming pool",
+      "mention_count": 385,
+      "avg_score_when_mentioned": 94.6,
+      "evidence": [
+        "kolam renang indoor",
+        "poolnya luas",
+        "nice pool"
+      ],
+      "category": "facility"
+    },
+    {
+      "strength": "Modern fitness center",
+      "mention_count": 50,
+      "avg_score_when_mentioned": 90.0,
+      "evidence": [
+        "modern fitness center",
+        "gym lengkap",
+        "good gym facilities"
+      ],
+      "category": "facility"
+    },
+    {
+      "strength": "EV charging station availability",
+      "mention_count": 10,
+      "avg_score_when_mentioned": 98.0,
+      "evidence": [
+        "Menyediakan Charger EV AC 22 KW di basement",
+        "ada EV charging yang gratis"
+      ],
+      "category": "facility"
+    },
+    {
+      "strength": "Quick and efficient check-in/out",
+      "mention_count": 150,
+      "avg_score_when_mentioned": 94.0,
+      "evidence": [
+        "proses check-in cepat",
+        "efficient and fast check-in"
+      ],
+      "category": "service"
+    },
+    {
+      "strength": "Family-friendly atmosphere",
+      "mention_count": 206,
+      "avg_score_when_mentioned": 93.0,
+      "evidence": [
+        "perfect for families on vacation",
+        "cocok buat keluarga",
+        "kids club and pool are so good"
+      ],
+      "category": "service"
+    },
+    {
+      "strength": "Mountain and sunrise views",
+      "mention_count": 556,
+      "avg_score_when_mentioned": 95.5,
+      "evidence": [
+        "view gunung",
+        "beautiful views",
+        "pemandangan bagus dari resto"
+      ],
+      "category": "view"
+    },
+    {
+      "strength": "Starbucks coffee on site",
+      "mention_count": 30,
+      "avg_score_when_mentioned": 90.0,
+      "evidence": [
+        "ada Starbucks coffee",
+        "Starbucks in hotel lobby"
+      ],
+      "category": "dining"
+    },
+    {
+      "strength": "Quiet and peaceful atmosphere",
+      "mention_count": 200,
+      "avg_score_when_mentioned": 95.0,
+      "evidence": [
+        "suasananya tenang",
+        "quiet atmosphere",
+        "tenang, sejuk"
+      ],
+      "category": "ambience"
+    }
+  ],
+  "total": 15
+}

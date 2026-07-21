@@ -1,0 +1,60 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Kokoon Hotel Review",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique review identifier"
+    },
+    "source": {
+      "type": "string",
+      "description": "Platform where review was published"
+    },
+    "date": {
+      "type": "string",
+      "description": "Publication date"
+    },
+    "score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "author": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string",
+      "enum": [
+        "id",
+        "en",
+        "zh",
+        "ja",
+        "fr",
+        "de",
+        "es"
+      ]
+    },
+    "sentiment": {
+      "type": "string",
+      "enum": [
+        "positive",
+        "neutral",
+        "negative"
+      ]
+    }
+  },
+  "required": [
+    "id",
+    "source",
+    "date",
+    "score",
+    "text"
+  ]
+}

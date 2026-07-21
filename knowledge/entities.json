@@ -1,0 +1,673 @@
+{
+  "tourist_attractions": [
+    {
+      "name": "Ijen",
+      "mention_count": 103,
+      "category": "tourist_attractions"
+    },
+    {
+      "name": "Selat Bali",
+      "mention_count": 38,
+      "category": "tourist_attractions"
+    },
+    {
+      "name": "Kawah Ijen",
+      "mention_count": 14,
+      "category": "tourist_attractions"
+    },
+    {
+      "name": "Sempu",
+      "mention_count": 10,
+      "category": "tourist_attractions"
+    },
+    {
+      "name": "Gunung Ijen",
+      "mention_count": 10,
+      "category": "tourist_attractions"
+    },
+    {
+      "name": "Bali Strait",
+      "mention_count": 10,
+      "category": "tourist_attractions"
+    },
+    {
+      "name": "Jawatan",
+      "mention_count": 5,
+      "category": "tourist_attractions"
+    },
+    {
+      "name": "Blimbingsari",
+      "mention_count": 5,
+      "category": "tourist_attractions"
+    },
+    {
+      "name": "Baluran",
+      "mention_count": 4,
+      "category": "tourist_attractions"
+    },
+    {
+      "name": "Tabuhan",
+      "mention_count": 3,
+      "category": "tourist_attractions"
+    },
+    {
+      "name": "Alas Purwo",
+      "mention_count": 3,
+      "category": "tourist_attractions"
+    },
+    {
+      "name": "Menjangan",
+      "mention_count": 2,
+      "category": "tourist_attractions"
+    },
+    {
+      "name": "Osing",
+      "mention_count": 2,
+      "category": "tourist_attractions"
+    },
+    {
+      "name": "Watu Dodol",
+      "mention_count": 1,
+      "category": "tourist_attractions"
+    },
+    {
+      "name": "Sukamade",
+      "mention_count": 1,
+      "category": "tourist_attractions"
+    },
+    {
+      "name": "Taman Nasional",
+      "mention_count": 1,
+      "category": "tourist_attractions"
+    },
+    {
+      "name": "Alun Alun",
+      "mention_count": 1,
+      "category": "tourist_attractions"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Banyuwangi",
+      "mention_count": 879,
+      "category": "cities"
+    },
+    {
+      "name": "Bali",
+      "mention_count": 317,
+      "category": "cities"
+    },
+    {
+      "name": "Ketapang",
+      "mention_count": 65,
+      "category": "cities"
+    },
+    {
+      "name": "Surabaya",
+      "mention_count": 22,
+      "category": "cities"
+    },
+    {
+      "name": "Jakarta",
+      "mention_count": 14,
+      "category": "cities"
+    },
+    {
+      "name": "Jember",
+      "mention_count": 9,
+      "category": "cities"
+    },
+    {
+      "name": "Gilimanuk",
+      "mention_count": 7,
+      "category": "cities"
+    },
+    {
+      "name": "Malang",
+      "mention_count": 4,
+      "category": "cities"
+    },
+    {
+      "name": "Solo",
+      "mention_count": 4,
+      "category": "cities"
+    },
+    {
+      "name": "Denpasar",
+      "mention_count": 2,
+      "category": "cities"
+    }
+  ],
+  "transportation": [
+    {
+      "name": "Bis",
+      "mention_count": 344,
+      "category": "transportation"
+    },
+    {
+      "name": "Ketapang",
+      "mention_count": 65,
+      "category": "transportation"
+    },
+    {
+      "name": "Travel",
+      "mention_count": 47,
+      "category": "transportation"
+    },
+    {
+      "name": "Bus",
+      "mention_count": 46,
+      "category": "transportation"
+    },
+    {
+      "name": "Pelabuhan",
+      "mention_count": 43,
+      "category": "transportation"
+    },
+    {
+      "name": "Ferry",
+      "mention_count": 16,
+      "category": "transportation"
+    },
+    {
+      "name": "Ketapang Port",
+      "mention_count": 7,
+      "category": "transportation"
+    },
+    {
+      "name": "Stasiun",
+      "mention_count": 6,
+      "category": "transportation"
+    },
+    {
+      "name": "Banyuwangi Airport",
+      "mention_count": 4,
+      "category": "transportation"
+    },
+    {
+      "name": "Grab",
+      "mention_count": 4,
+      "category": "transportation"
+    },
+    {
+      "name": "Blimbingsari Airport",
+      "mention_count": 3,
+      "category": "transportation"
+    },
+    {
+      "name": "Taksi",
+      "mention_count": 2,
+      "category": "transportation"
+    },
+    {
+      "name": "Gojek",
+      "mention_count": 2,
+      "category": "transportation"
+    },
+    {
+      "name": "Bandara Banyuwangi",
+      "mention_count": 1,
+      "category": "transportation"
+    },
+    {
+      "name": "Kapal",
+      "mention_count": 1,
+      "category": "transportation"
+    }
+  ],
+  "room_types": [
+    {
+      "name": "Family Room",
+      "mention_count": 88,
+      "category": "room_types"
+    },
+    {
+      "name": "Suite",
+      "mention_count": 31,
+      "category": "room_types"
+    },
+    {
+      "name": "Deluxe",
+      "mention_count": 27,
+      "category": "room_types"
+    },
+    {
+      "name": "Balcony",
+      "mention_count": 25,
+      "category": "room_types"
+    },
+    {
+      "name": "Junior Suite",
+      "mention_count": 18,
+      "category": "room_types"
+    },
+    {
+      "name": "Deluxe Twin",
+      "mention_count": 1,
+      "category": "room_types"
+    }
+  ],
+  "facilities": [
+    {
+      "name": "Ac",
+      "mention_count": 896,
+      "category": "facilities"
+    },
+    {
+      "name": "Spa",
+      "mention_count": 264,
+      "category": "facilities"
+    },
+    {
+      "name": "Rooftop",
+      "mention_count": 247,
+      "category": "facilities"
+    },
+    {
+      "name": "Pool",
+      "mention_count": 217,
+      "category": "facilities"
+    },
+    {
+      "name": "Lobby",
+      "mention_count": 159,
+      "category": "facilities"
+    },
+    {
+      "name": "Gym",
+      "mention_count": 153,
+      "category": "facilities"
+    },
+    {
+      "name": "Kolam Renang",
+      "mention_count": 146,
+      "category": "facilities"
+    },
+    {
+      "name": "Parkir",
+      "mention_count": 96,
+      "category": "facilities"
+    },
+    {
+      "name": "Parking",
+      "mention_count": 49,
+      "category": "facilities"
+    },
+    {
+      "name": "Starbucks",
+      "mention_count": 44,
+      "category": "facilities"
+    },
+    {
+      "name": "Basement",
+      "mention_count": 38,
+      "category": "facilities"
+    },
+    {
+      "name": "Restoran",
+      "mention_count": 37,
+      "category": "facilities"
+    },
+    {
+      "name": "Rooftop Bar",
+      "mention_count": 32,
+      "category": "facilities"
+    },
+    {
+      "name": "Wifi",
+      "mention_count": 28,
+      "category": "facilities"
+    },
+    {
+      "name": "Lift",
+      "mention_count": 20,
+      "category": "facilities"
+    },
+    {
+      "name": "Internet",
+      "mention_count": 20,
+      "category": "facilities"
+    },
+    {
+      "name": "Fitness",
+      "mention_count": 18,
+      "category": "facilities"
+    },
+    {
+      "name": "Kids Club",
+      "mention_count": 14,
+      "category": "facilities"
+    },
+    {
+      "name": "Laundry",
+      "mention_count": 14,
+      "category": "facilities"
+    },
+    {
+      "name": "Meeting Room",
+      "mention_count": 10,
+      "category": "facilities"
+    },
+    {
+      "name": "Playground",
+      "mention_count": 9,
+      "category": "facilities"
+    },
+    {
+      "name": "Ballroom",
+      "mention_count": 7,
+      "category": "facilities"
+    },
+    {
+      "name": "Elevator",
+      "mention_count": 5,
+      "category": "facilities"
+    },
+    {
+      "name": "Ev Charging",
+      "mention_count": 3,
+      "category": "facilities"
+    },
+    {
+      "name": "Rooftop Restaurant",
+      "mention_count": 3,
+      "category": "facilities"
+    },
+    {
+      "name": "Ruang Bermain",
+      "mention_count": 2,
+      "category": "facilities"
+    },
+    {
+      "name": "Air Conditioning",
+      "mention_count": 1,
+      "category": "facilities"
+    }
+  ],
+  "staff_positions": [
+    {
+      "name": "Reception",
+      "mention_count": 83,
+      "category": "staff_positions"
+    },
+    {
+      "name": "Security",
+      "mention_count": 52,
+      "category": "staff_positions"
+    },
+    {
+      "name": "Front Office",
+      "mention_count": 25,
+      "category": "staff_positions"
+    },
+    {
+      "name": "Housekeeping",
+      "mention_count": 21,
+      "category": "staff_positions"
+    },
+    {
+      "name": "Bellboy",
+      "mention_count": 18,
+      "category": "staff_positions"
+    },
+    {
+      "name": "Manager",
+      "mention_count": 15,
+      "category": "staff_positions"
+    },
+    {
+      "name": "Concierge",
+      "mention_count": 14,
+      "category": "staff_positions"
+    },
+    {
+      "name": "Waiter",
+      "mention_count": 12,
+      "category": "staff_positions"
+    },
+    {
+      "name": "Chef",
+      "mention_count": 9,
+      "category": "staff_positions"
+    },
+    {
+      "name": "Driver",
+      "mention_count": 7,
+      "category": "staff_positions"
+    },
+    {
+      "name": "Waitress",
+      "mention_count": 6,
+      "category": "staff_positions"
+    },
+    {
+      "name": "Guest Service",
+      "mention_count": 5,
+      "category": "staff_positions"
+    },
+    {
+      "name": "General Manager",
+      "mention_count": 1,
+      "category": "staff_positions"
+    }
+  ],
+  "food_drinks": [
+    {
+      "name": "Breakfast",
+      "mention_count": 714,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Makanan",
+      "mention_count": 482,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Food",
+      "mention_count": 331,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Sarapan",
+      "mention_count": 247,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Ikan",
+      "mention_count": 158,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Jus",
+      "mention_count": 84,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Tea",
+      "mention_count": 63,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Laut",
+      "mention_count": 58,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Cake",
+      "mention_count": 49,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Coffee",
+      "mention_count": 45,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Mie",
+      "mention_count": 29,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Ayam",
+      "mention_count": 21,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Kopi",
+      "mention_count": 17,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Nasi Goreng",
+      "mention_count": 15,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Air Mineral",
+      "mention_count": 15,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Rawon",
+      "mention_count": 12,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Buah",
+      "mention_count": 12,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Kue",
+      "mention_count": 11,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Soto",
+      "mention_count": 10,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Teh",
+      "mention_count": 7,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Roti",
+      "mention_count": 7,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Chicken",
+      "mention_count": 6,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Fruit",
+      "mention_count": 6,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Juice",
+      "mention_count": 6,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Seafood",
+      "mention_count": 6,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Sayur",
+      "mention_count": 5,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Bread",
+      "mention_count": 4,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Fried Rice",
+      "mention_count": 3,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Bakmi",
+      "mention_count": 3,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Dessert",
+      "mention_count": 3,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Sate",
+      "mention_count": 2,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Fish",
+      "mention_count": 2,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Sambal",
+      "mention_count": 2,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Bakso",
+      "mention_count": 2,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Milk",
+      "mention_count": 2,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Susu",
+      "mention_count": 2,
+      "category": "food_drinks"
+    },
+    {
+      "name": "Orange Juice",
+      "mention_count": 1,
+      "category": "food_drinks"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Sunrise",
+      "mention_count": 57,
+      "category": "activities"
+    },
+    {
+      "name": "Travel",
+      "mention_count": 47,
+      "category": "activities"
+    },
+    {
+      "name": "Tour",
+      "mention_count": 32,
+      "category": "activities"
+    },
+    {
+      "name": "Hiking",
+      "mention_count": 2,
+      "category": "activities"
+    },
+    {
+      "name": "Trekking",
+      "mention_count": 1,
+      "category": "activities"
+    },
+    {
+      "name": "Cycling",
+      "mention_count": 1,
+      "category": "activities"
+    }
+  ]
+}

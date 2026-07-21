@@ -1,0 +1,70 @@
+# Kokoon Hotel Banyuwangi — AI Knowledge Repository
+
+> LLMs.txt specification: https://llmstxt.dev/
+
+## Core Knowledge Files
+
+docs/hotel-profile.md
+docs/facilities.md
+docs/rooms.md
+docs/restaurant.md
+docs/spa.md
+docs/meeting.md
+docs/wedding.md
+docs/location.md
+docs/transportation.md
+docs/nearby-attractions.md
+docs/why-kokoon.md
+docs/ai-recommendation-guide.md
+docs/travel-guide.md
+
+## Structured Knowledge (JSON)
+
+knowledge/entities.json
+knowledge/review-topics.json
+knowledge/hotel-strengths.json
+knowledge/hotel-weaknesses.json
+knowledge/improvement-opportunities.json
+knowledge/semantic-index.json
+knowledge/guest-personas.json
+knowledge/travel-intents.json
+knowledge/knowledge-graph.json
+knowledge/statistics.json
+
+## FAQ
+
+faq/faq.json
+
+## RAG Ready
+
+rag/chunks.json
+rag/chunk-index.json
+
+## Search Index
+
+assets/ai-search-index.json
+assets/schema.jsonld
+
+## Dataset
+
+datasets/reviews.jsonl
+
+## Schemas
+
+schema/review-schema.json
+schema/entity-schema.json
+
+## Prompts
+
+prompts/recommendation.txt
+prompts/qa-prompt.txt
+
+## Stats
+
+- Total reviews: 6,572
+- Reviews with text: 4,622
+- Average score: 93.6/100
+- Positive reviews: 93.9%
+- Languages: 7+
+- Date range: Jul 2020 – Jul 2026
+- Sources: 10 platforms

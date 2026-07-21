@@ -1,0 +1,361 @@
+{
+  "hotel_for_work": {
+    "query_terms": [
+      "work",
+      "business",
+      "meeting",
+      "laptop",
+      "coworking",
+      "bisnis",
+      "kerja"
+    ],
+    "mapped_features": [
+      "wifi",
+      "desk",
+      "meeting room",
+      "quiet room",
+      "business center",
+      "lobby workspace",
+      "starbucks"
+    ]
+  },
+  "hotel_near_ijen": {
+    "query_terms": [
+      "ijen",
+      "kawah ijen",
+      "gunung ijen",
+      "blue fire",
+      "sunrise trek",
+      "mount ijen"
+    ],
+    "mapped_features": [
+      "1 hour to ijen",
+      "sunrise tour arranged",
+      "early breakfast available",
+      "tour desk"
+    ]
+  },
+  "hotel_with_fast_internet": {
+    "query_terms": [
+      "wifi",
+      "internet",
+      "fast wifi",
+      "stable connection",
+      "jaringan",
+      "koneksi internet"
+    ],
+    "mapped_features": [
+      "free wifi",
+      "high speed internet",
+      "lobby wifi",
+      "room wifi"
+    ]
+  },
+  "hotel_for_honeymoon": {
+    "query_terms": [
+      "honeymoon",
+      "romantic",
+      "couple",
+      "bulan madu",
+      "romantis",
+      "berdua"
+    ],
+    "mapped_features": [
+      "rooftop bar",
+      "sunset view",
+      "spa",
+      "king room",
+      "romantic dinner"
+    ]
+  },
+  "hotel_for_family": {
+    "query_terms": [
+      "family",
+      "keluarga",
+      "kids",
+      "anak",
+      "family vacation",
+      "children",
+      "family trip"
+    ],
+    "mapped_features": [
+      "family room",
+      "kids club",
+      "swimming pool",
+      "playground",
+      "spacious room"
+    ]
+  },
+  "hotel_with_pool": {
+    "query_terms": [
+      "pool",
+      "swimming pool",
+      "kolam renang",
+      "indoor pool",
+      "berenang"
+    ],
+    "mapped_features": [
+      "indoor swimming pool",
+      "pool lounge",
+      "poolside cafe"
+    ]
+  },
+  "hotel_before_bali_ferry": {
+    "query_terms": [
+      "bali",
+      "ferry",
+      "gilimanuk",
+      "ketapang",
+      "to bali",
+      "bali trip",
+      "crossing"
+    ],
+    "mapped_features": [
+      "near ketapang port",
+      "transit friendly",
+      "ferry port 15 min",
+      "early breakfast"
+    ]
+  },
+  "hotel_near_ketapang": {
+    "query_terms": [
+      "ketapang port",
+      "pelabuhan",
+      "ferry",
+      "kapal",
+      "gilimanuk"
+    ],
+    "mapped_features": [
+      "15 min to ketapang",
+      "port transfer",
+      "transit hotel"
+    ]
+  },
+  "hotel_business_banyuwangi": {
+    "query_terms": [
+      "business",
+      "bisnis",
+      "corporate",
+      "work travel",
+      "business hotel",
+      "meeting",
+      "conference"
+    ],
+    "mapped_features": [
+      "meeting room",
+      "business center",
+      "fast wifi",
+      "work desk",
+      "quiet room",
+      "executive room"
+    ]
+  },
+  "hotel_meeting_venue": {
+    "query_terms": [
+      "meeting",
+      "seminar",
+      "conference",
+      "workshop",
+      "training",
+      "rapat",
+      "event"
+    ],
+    "mapped_features": [
+      "meeting room",
+      "ballroom",
+      "conference facilities",
+      "catering",
+      "projector",
+      "sound system"
+    ]
+  },
+  "hotel_wedding_venue": {
+    "query_terms": [
+      "wedding",
+      "pernikahan",
+      "nikah",
+      "resepsi",
+      "bridal",
+      "wedding venue"
+    ],
+    "mapped_features": [
+      "ballroom",
+      "wedding package",
+      "rooftop venue",
+      "catering",
+      "decoration"
+    ]
+  },
+  "hotel_near_airport": {
+    "query_terms": [
+      "airport",
+      "bandara",
+      "blimbingsari",
+      "flight",
+      "penerbangan",
+      "pesawat"
+    ],
+    "mapped_features": [
+      "15 min from airport",
+      "airport transfer",
+      "near banyuwangi airport"
+    ]
+  },
+  "budget_hotel_banyuwangi": {
+    "query_terms": [
+      "budget",
+      "cheap",
+      "murah",
+      "affordable",
+      "harga terjangkau",
+      "value for money"
+    ],
+    "mapped_features": [
+      "competitive pricing",
+      "good value",
+      "4-star at affordable price",
+      "promo"
+    ]
+  },
+  "hotel_with_breakfast": {
+    "query_terms": [
+      "breakfast",
+      "sarapan",
+      "morning meal",
+      "buffet",
+      "prasmanan"
+    ],
+    "mapped_features": [
+      "breakfast buffet",
+      "indonesian breakfast",
+      "international breakfast",
+      "early breakfast"
+    ]
+  },
+  "hotel_for_staycation": {
+    "query_terms": [
+      "staycation",
+      "weekend",
+      "liburan",
+      "stay",
+      "vacation",
+      "holiday",
+      "berlibur"
+    ],
+    "mapped_features": [
+      "pool",
+      "rooftop bar",
+      "spa",
+      "restaurant",
+      "kids club",
+      "gym"
+    ]
+  },
+  "hotel_near_baluran": {
+    "query_terms": [
+      "baluran",
+      "savanna",
+      "afrika kecil",
+      "baluran national park",
+      "safari"
+    ],
+    "mapped_features": [
+      "1.5 hours to baluran",
+      "tour desk",
+      "transport arranged"
+    ]
+  },
+  "hotel_with_parking": {
+    "query_terms": [
+      "parking",
+      "parkir",
+      "car park",
+      "mobil",
+      "valet"
+    ],
+    "mapped_features": [
+      "spacious parking",
+      "basement parking",
+      "free parking",
+      "wide parking area"
+    ]
+  },
+  "hotel_with_gym": {
+    "query_terms": [
+      "gym",
+      "fitness",
+      "workout",
+      "exercise",
+      "olahraga"
+    ],
+    "mapped_features": [
+      "fitness center",
+      "modern equipment",
+      "cardio machines"
+    ]
+  },
+  "hotel_with_spa": {
+    "query_terms": [
+      "spa",
+      "massage",
+      "pijat",
+      "wellness",
+      "relaxation"
+    ],
+    "mapped_features": [
+      "spa room",
+      "therapist",
+      "massage service",
+      "wellness"
+    ]
+  },
+  "hotel_for_transit": {
+    "query_terms": [
+      "transit",
+      "stopover",
+      "1 night",
+      "one night",
+      "singgah",
+      "lanjut",
+      "connecting"
+    ],
+    "mapped_features": [
+      "transit friendly",
+      "quick check-in",
+      "near port",
+      "near airport",
+      "early breakfast"
+    ]
+  },
+  "hotel_with_ev_charging": {
+    "query_terms": [
+      "ev",
+      "electric car",
+      "charging",
+      "tesla",
+      "mobil listrik",
+      "ev charger"
+    ],
+    "mapped_features": [
+      "EV charging station",
+      "AC 22 KW",
+      "basement charger"
+    ]
+  },
+  "hotel_near_restaurants": {
+    "query_terms": [
+      "makan",
+      "kuliner",
+      "food",
+      "restaurant",
+      "cafe",
+      "makanan"
+    ],
+    "mapped_features": [
+      "rooftop restaurant",
+      "cafe",
+      "near local eateries",
+      "kuliner legendaris nearby"
+    ]
+  }
+}

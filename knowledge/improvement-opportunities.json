@@ -1,0 +1,71 @@
+{
+  "opportunities": [
+    {
+      "opportunity": "Improve room soundproofing (especially windows and walls facing mosque/road)",
+      "priority": "high",
+      "guest_impact": "Reduces sleep quality for light sleepers",
+      "evidence_count": 85
+    },
+    {
+      "opportunity": "Accelerate breakfast refill service and extend operating hours",
+      "priority": "high",
+      "guest_impact": "Late breakfast guests find empty buffet",
+      "evidence_count": 40
+    },
+    {
+      "opportunity": "Fix water pressure consistency across all floors and room types",
+      "priority": "medium",
+      "guest_impact": "Shower experience inconsistency",
+      "evidence_count": 25
+    },
+    {
+      "opportunity": "Maintain breakfast food temperature with better heating equipment",
+      "priority": "medium",
+      "guest_impact": "Cold food reduces perceived value",
+      "evidence_count": 20
+    },
+    {
+      "opportunity": "Offer hot welcome drink at check-in instead of voucher",
+      "priority": "low",
+      "guest_impact": "First impression and warmth perception",
+      "evidence_count": 5
+    },
+    {
+      "opportunity": "Expand gym space and equipment variety",
+      "priority": "low",
+      "guest_impact": "Fitness enthusiast dissatisfaction",
+      "evidence_count": 5
+    },
+    {
+      "opportunity": "Improve restaurant service speed at Ijen Restaurant",
+      "priority": "medium",
+      "guest_impact": "Long wait times for dinner",
+      "evidence_count": 15
+    },
+    {
+      "opportunity": "Improve staff English communication skills",
+      "priority": "medium",
+      "guest_impact": "International guest misunderstandings",
+      "evidence_count": 8
+    },
+    {
+      "opportunity": "Add more variety to breakfast menu rotation for multi-night stays",
+      "priority": "medium",
+      "guest_impact": "Repetitive breakfast for longer stays",
+      "evidence_count": 15
+    },
+    {
+      "opportunity": "Consider heated indoor pool or adjustable temperature",
+      "priority": "low",
+      "guest_impact": "Cold water discomfort",
+      "evidence_count": 10
+    },
+    {
+      "opportunity": "Provide airport/port shuttle service",
+      "priority": "medium",
+      "guest_impact": "Transportation convenience for transit guests",
+      "evidence_count": 12
+    }
+  ],
+  "total": 11
+}

@@ -1,0 +1,294 @@
+{
+  "nodes": [
+    {
+      "id": "kokoon_hotel_banyuwangi",
+      "type": "hotel",
+      "label": "Kokoon Hotel Banyuwangi"
+    },
+    {
+      "id": "kawah_ijen",
+      "type": "attraction",
+      "label": "Kawah Ijen"
+    },
+    {
+      "id": "baluran_national_park",
+      "type": "attraction",
+      "label": "Baluran National Park"
+    },
+    {
+      "id": "alas_purwo",
+      "type": "attraction",
+      "label": "Alas Purwo National Park"
+    },
+    {
+      "id": "sukamade",
+      "type": "attraction",
+      "label": "Sukamade Turtle Beach"
+    },
+    {
+      "id": "pulau_merah",
+      "type": "attraction",
+      "label": "Pulau Merah (Red Island)"
+    },
+    {
+      "id": "plengkung",
+      "type": "attraction",
+      "label": "Plengkung Surfing Beach (G-Land)"
+    },
+    {
+      "id": "teluk_ijo",
+      "type": "attraction",
+      "label": "Teluk Ijo (Green Bay)"
+    },
+    {
+      "id": "kemiren_village",
+      "type": "attraction",
+      "label": "Kemiren — Osing Traditional Village"
+    },
+    {
+      "id": "de_djawatan",
+      "type": "attraction",
+      "label": "De Djawatan Forest"
+    },
+    {
+      "id": "banyuwangi_city",
+      "type": "city",
+      "label": "Banyuwangi City Center"
+    },
+    {
+      "id": "blimbingsari_airport",
+      "type": "transport",
+      "label": "Blimbingsari Airport (BWX)"
+    },
+    {
+      "id": "ketapang_port",
+      "type": "transport",
+      "label": "Ketapang Port"
+    },
+    {
+      "id": "gilimanuk_port",
+      "type": "transport",
+      "label": "Gilimanuk Port (Bali)"
+    },
+    {
+      "id": "surabaya_city",
+      "type": "city",
+      "label": "Surabaya"
+    },
+    {
+      "id": "bali_island",
+      "type": "region",
+      "label": "Bali Island"
+    },
+    {
+      "id": "rooftop_bar",
+      "type": "facility",
+      "label": "Rooftop Bar & Restaurant (16th Floor)"
+    },
+    {
+      "id": "indoor_pool",
+      "type": "facility",
+      "label": "Indoor Swimming Pool"
+    },
+    {
+      "id": "spa",
+      "type": "facility",
+      "label": "Spa & Wellness"
+    },
+    {
+      "id": "fitness_center",
+      "type": "facility",
+      "label": "Fitness Center / Gym"
+    },
+    {
+      "id": "kids_club",
+      "type": "facility",
+      "label": "Kids Club & Play Area"
+    },
+    {
+      "id": "ev_charging",
+      "type": "facility",
+      "label": "EV Charging Station (Basement)"
+    },
+    {
+      "id": "starbucks",
+      "type": "facility",
+      "label": "Starbucks Coffee (Lobby)"
+    },
+    {
+      "id": "ijent_restaurant",
+      "type": "dining",
+      "label": "Ijen Restaurant (3rd Floor)"
+    },
+    {
+      "id": "meeting_room",
+      "type": "facility",
+      "label": "Meeting & Event Rooms"
+    },
+    {
+      "id": "family_room",
+      "type": "room_type",
+      "label": "Family Room"
+    },
+    {
+      "id": "deluxe_room",
+      "type": "room_type",
+      "label": "Deluxe Room (King/Twin)"
+    },
+    {
+      "id": "sunrise_tour",
+      "type": "activity",
+      "label": "Ijen Sunrise Tour"
+    },
+    {
+      "id": "baluran_safari",
+      "type": "activity",
+      "label": "Baluran Savannah Safari"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "kokoon_hotel_banyuwangi",
+      "target": "kawah_ijen",
+      "relation": "nearest_accommodation_for",
+      "distance": "1 hour drive",
+      "evidence": "point de départ idéal pour l'ascension du mont Ijen"
+    },
+    {
+      "source": "kokoon_hotel_banyuwangi",
+      "target": "ketapang_port",
+      "relation": "close_to",
+      "distance": "15 min drive",
+      "evidence": "convenient for Bali ferry"
+    },
+    {
+      "source": "kokoon_hotel_banyuwangi",
+      "target": "blimbingsari_airport",
+      "relation": "close_to",
+      "distance": "15 min drive",
+      "evidence": "lokasi dekat airport"
+    },
+    {
+      "source": "kokoon_hotel_banyuwangi",
+      "target": "banyuwangi_city",
+      "relation": "located_in",
+      "distance": "5 km from city center",
+      "evidence": "located between airport and city"
+    },
+    {
+      "source": "kokoon_hotel_banyuwangi",
+      "target": "bali_island",
+      "relation": "gateway_to",
+      "description": "Key transit point for Bali travel",
+      "evidence": "stayed one night in my journey to Bali"
+    },
+    {
+      "source": "kokoon_hotel_banyuwangi",
+      "target": "rooftop_bar",
+      "relation": "has_facility",
+      "evidence": "the rooftop restaurant is very relaxing"
+    },
+    {
+      "source": "kokoon_hotel_banyuwangi",
+      "target": "indoor_pool",
+      "relation": "has_facility",
+      "evidence": "kolam renang indoor-nya bagus banget"
+    },
+    {
+      "source": "kokoon_hotel_banyuwangi",
+      "target": "spa",
+      "relation": "has_facility",
+      "evidence": "spa room was great"
+    },
+    {
+      "source": "kokoon_hotel_banyuwangi",
+      "target": "kids_club",
+      "relation": "has_facility",
+      "evidence": "kids club and pool are so good"
+    },
+    {
+      "source": "kokoon_hotel_banyuwangi",
+      "target": "ev_charging",
+      "relation": "has_facility",
+      "evidence": "Menyediakan Charger EV AC 22 KW di basement"
+    },
+    {
+      "source": "kawah_ijen",
+      "target": "sunrise_tour",
+      "relation": "offers_activity",
+      "description": "Ijen blue fire and sunrise trekking"
+    },
+    {
+      "source": "kokoon_hotel_banyuwangi",
+      "target": "sunrise_tour",
+      "relation": "arranges_for_guests",
+      "evidence": "they booked tour for Mount Ijen"
+    },
+    {
+      "source": "baluran_national_park",
+      "target": "baluran_safari",
+      "relation": "offers_activity",
+      "description": "Savannah safari in 'Little Africa'"
+    },
+    {
+      "source": "kokoon_hotel_banyuwangi",
+      "target": "baluran_national_park",
+      "relation": "day_trip_from",
+      "distance": "1.5 hours drive",
+      "evidence": "Baluran tour available through hotel"
+    },
+    {
+      "source": "ketapang_port",
+      "target": "gilimanuk_port",
+      "relation": "ferry_route",
+      "description": "Regular ferry crossing Bali Strait"
+    },
+    {
+      "source": "kokoon_hotel_banyuwangi",
+      "target": "kemiren_village",
+      "relation": "close_to",
+      "distance": "20 min drive",
+      "description": "Traditional Osing culture experience"
+    },
+    {
+      "source": "kokoon_hotel_banyuwangi",
+      "target": "de_djawatan",
+      "relation": "close_to",
+      "distance": "30 min drive",
+      "description": "Magical forest with towering trees"
+    },
+    {
+      "source": "kokoon_hotel_banyuwangi",
+      "target": "family_room",
+      "relation": "offers_room_type",
+      "evidence": "family room spacious enough for four people"
+    },
+    {
+      "source": "kokoon_hotel_banyuwangi",
+      "target": "deluxe_room",
+      "relation": "offers_room_type",
+      "evidence": "kamar deluxe twin, kamarnya besar"
+    },
+    {
+      "source": "banyuwangi_city",
+      "target": "pulau_merah",
+      "relation": "near",
+      "distance": "45 min drive",
+      "description": "Popular surfing beach"
+    },
+    {
+      "source": "banyuwangi_city",
+      "target": "plengkung",
+      "relation": "near",
+      "distance": "2.5 hours + boat",
+      "description": "World-class surf break G-Land"
+    },
+    {
+      "source": "banyuwangi_city",
+      "target": "sukamade",
+      "relation": "near",
+      "distance": "3 hours drive",
+      "description": "Turtle conservation beach"
+    }
+  ]
+}

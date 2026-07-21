@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://github.com/rhosadac/kokoon-ai-knowledge/sitemap.txt

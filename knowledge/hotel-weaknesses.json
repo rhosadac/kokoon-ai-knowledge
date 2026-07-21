@@ -1,0 +1,113 @@
+{
+  "weaknesses": [
+    {
+      "weakness": "Soundproofing issues — noise from hallway, neighbors, mosque",
+      "mention_count": 85,
+      "avg_score_when_mentioned": 72.0,
+      "evidence": [
+        "suara gaduh dari lantai atas",
+        "kamar tidak kedap suara",
+        "tres mauvaise insonorisation",
+        "heard the mosque, neighbors, road noise"
+      ],
+      "category": "room"
+    },
+    {
+      "weakness": "Breakfast refill slow, food runs out after 9 AM",
+      "mention_count": 40,
+      "avg_score_when_mentioned": 65.0,
+      "evidence": [
+        "makanan habis tidak langsung di refill",
+        "many food items had run out by 9 AM",
+        "refill requested were not handled promptly"
+      ],
+      "category": "dining"
+    },
+    {
+      "weakness": "Water pressure and hot water instability",
+      "mention_count": 25,
+      "avg_score_when_mentioned": 60.0,
+      "evidence": [
+        "air kurang keras keluarnya",
+        "air panas tidak stabil",
+        "water pressure too low"
+      ],
+      "category": "facility"
+    },
+    {
+      "weakness": "Breakfast food temperature (served cold)",
+      "mention_count": 20,
+      "avg_score_when_mentioned": 65.0,
+      "evidence": [
+        "breakfast makanannya agak dingin",
+        "makanan sudah dingin",
+        "rawon broth was not hot enough"
+      ],
+      "category": "dining"
+    },
+    {
+      "weakness": "Location far from city center / attractions",
+      "mention_count": 30,
+      "avg_score_when_mentioned": 70.0,
+      "evidence": [
+        "lokasi hotel aga jauh kemana2",
+        "a bit far from city center",
+        "hotel is a bit outside the city"
+      ],
+      "category": "location"
+    },
+    {
+      "weakness": "Restaurant service slow (Ijen Restaurant)",
+      "mention_count": 15,
+      "avg_score_when_mentioned": 50.0,
+      "evidence": [
+        "dining took an hour to be served",
+        "personnel très lent au restaurant",
+        "the restaurant service was very slow"
+      ],
+      "category": "dining"
+    },
+    {
+      "weakness": "Limited English proficiency among staff",
+      "mention_count": 8,
+      "avg_score_when_mentioned": 55.0,
+      "evidence": [
+        "staff don't speak English",
+        "there were lots of misunderstandings"
+      ],
+      "category": "service"
+    },
+    {
+      "weakness": "Gym too small with limited equipment",
+      "mention_count": 5,
+      "avg_score_when_mentioned": 60.0,
+      "evidence": [
+        "ruang gym kurang besar",
+        "alat gym perlu ditambah"
+      ],
+      "category": "facility"
+    },
+    {
+      "weakness": "Indoor pool water is cold",
+      "mention_count": 10,
+      "avg_score_when_mentioned": 70.0,
+      "evidence": [
+        "kolam berada dalam gedung airnya lumayan dingin",
+        "pool water was cold"
+      ],
+      "category": "facility"
+    },
+    {
+      "weakness": "Limited breakfast variety over multiple days",
+      "mention_count": 15,
+      "avg_score_when_mentioned": 70.0,
+      "evidence": [
+        "breakfast menu limited variety",
+        "sarapan varian biasa saja",
+        "breakfast tidak selengkap dulu"
+      ],
+      "category": "dining"
+    }
+  ],
+  "total": 10
+}

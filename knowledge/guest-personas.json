@@ -1,0 +1,175 @@
+{
+  "personas": [
+    {
+      "name": "Business Traveller",
+      "description": "Professional travelling to Banyuwangi for work, meetings, or corporate assignments.",
+      "needs": [
+        "fast stable wifi",
+        "work desk in room",
+        "meeting facilities",
+        "quiet environment",
+        "efficient check-in"
+      ],
+      "pain_points": [
+        "noise from other rooms",
+        "slow breakfast refill",
+        "limited gym equipment"
+      ],
+      "avg_score": 92.1,
+      "review_evidence": "hotel untuk perjalanan bisnis maupun liburan bersama keluarga"
+    },
+    {
+      "name": "Family with Children",
+      "description": "Families travelling for vacation with kids, often multi-night stays.",
+      "needs": [
+        "spacious family room",
+        "kids club",
+        "swimming pool",
+        "varied breakfast",
+        "child-friendly facilities"
+      ],
+      "pain_points": [
+        "AC in kids room not cold enough",
+        "limited children's menu",
+        "noise travels between rooms"
+      ],
+      "avg_score": 92.8,
+      "review_evidence": "perfect for families on vacation, kids club and pool are so good"
+    },
+    {
+      "name": "Couple / Honeymooner",
+      "description": "Romantic getaways, couples seeking quality time together.",
+      "needs": [
+        "romantic ambience",
+        "rooftop dining",
+        "good views",
+        "spa",
+        "king bed"
+      ],
+      "pain_points": [
+        "poor soundproofing",
+        "cold pool water"
+      ],
+      "avg_score": 97.2,
+      "review_evidence": "nice hotel to stay with your love ones"
+    },
+    {
+      "name": "Solo Traveller",
+      "description": "Independent travellers exploring Banyuwangi, often visiting Ijen.",
+      "needs": [
+        "tour information",
+        "affordable pricing",
+        "good location",
+        "safe environment",
+        "dining options"
+      ],
+      "pain_points": [
+        "single supplement feels expensive",
+        "limited solo activities"
+      ],
+      "avg_score": 93.0,
+      "review_evidence": "comfortable for solo stay, very clean and modern"
+    },
+    {
+      "name": "Backpacker",
+      "description": "Budget-conscious travellers, often transit to/from Bali or Ijen.",
+      "needs": [
+        "budget-friendly rate",
+        "transit convenience",
+        "near port/airport",
+        "basic amenities"
+      ],
+      "pain_points": [
+        "price higher than typical backpacker hostels",
+        "location not walkable to city"
+      ],
+      "avg_score": 88.0,
+      "review_evidence": "value for money, strategic location"
+    },
+    {
+      "name": "Government / Corporate Guest",
+      "description": "Official government travel, corporate booking, often with per-diem budget.",
+      "needs": [
+        "meeting room",
+        "standard corporate rate",
+        "formal dining",
+        "fast check-in/out",
+        "conference facilities"
+      ],
+      "pain_points": [
+        "breakfast not included in some rates",
+        "SOP rigidity"
+      ],
+      "avg_score": 90.0,
+      "review_evidence": "good for business and meetings"
+    },
+    {
+      "name": "Travel Group",
+      "description": "Organized groups, retreats, or company outings.",
+      "needs": [
+        "group booking",
+        "common areas",
+        "buffet dining",
+        "coordination support",
+        "spacious lobby"
+      ],
+      "pain_points": [
+        "restaurant capacity for large groups",
+        "slow buffet refill"
+      ],
+      "avg_score": 94.0,
+      "review_evidence": "we are a small group of three who stayed for work, wonderful experience"
+    },
+    {
+      "name": "Foreign Tourist",
+      "description": "International visitors, primarily from Europe, Australia, and Asia.",
+      "needs": [
+        "English-speaking staff",
+        "international menu",
+        "tour arrangements",
+        "cultural experiences"
+      ],
+      "pain_points": [
+        "limited English proficiency",
+        "tour guide language barrier",
+        "mosque noise"
+      ],
+      "avg_score": 91.8,
+      "review_evidence": "staff don't speak English, there were lots of misunderstandings"
+    },
+    {
+      "name": "Domestic Tourist",
+      "description": "Indonesian travellers from other cities visiting Banyuwangi.",
+      "needs": [
+        "local cuisine",
+        "Instagram-worthy spots",
+        "family-friendly",
+        "pool",
+        "good value"
+      ],
+      "pain_points": [
+        "breakfast less varied than expected",
+        "location slightly far from attractions"
+      ],
+      "avg_score": 93.1,
+      "review_evidence": "setiap ke banyuwangi pasti stay di sini"
+    },
+    {
+      "name": "Transit Traveller",
+      "description": "Guests staying 1 night before catching ferry to Bali or flight out.",
+      "needs": [
+        "near port/airport",
+        "quick in-out",
+        "early breakfast",
+        "efficient service"
+      ],
+      "pain_points": [
+        "limited evening dining options",
+        "price for short stay feels high"
+      ],
+      "avg_score": 91.1,
+      "review_evidence": "transit hotel between Banyuwangi and Bali"
+    }
+  ],
+  "total": 10
+}

@@ -1,0 +1,162 @@
+{
+  "intents": [
+    {
+      "intent": "Before Ijen",
+      "description": "Guest staying overnight before climbing Kawah Ijen for sunrise",
+      "typical_stay": "1 night",
+      "key_requirements": [
+        "early breakfast (before 3 AM)",
+        "tour arrangement",
+        "pickup point nearby",
+        "rest before hike"
+      ],
+      "review_evidence": [
+        "1h du mont Ijen",
+        "best hotel before Ijen",
+        "point de départ idéal pour l'ascension du mont Ijen"
+      ]
+    },
+    {
+      "intent": "After Ijen",
+      "description": "Guest resting after Ijen hike before continuing journey",
+      "typical_stay": "1-2 nights",
+      "key_requirements": [
+        "comfortable bed",
+        "spa/massage",
+        "good shower",
+        "laundry service",
+        "restaurant"
+      ],
+      "review_evidence": [
+        "after Ijen trek this hotel was perfect to relax",
+        "nice to rest after hiking"
+      ]
+    },
+    {
+      "intent": "Before Bali",
+      "description": "Guest transiting to Bali via Ketapang-Gilimanuk ferry",
+      "typical_stay": "1 night",
+      "key_requirements": [
+        "near Ketapang port",
+        "early breakfast",
+        "easy check-out",
+        "transport to port"
+      ],
+      "review_evidence": [
+        "stayed one night on my journey to Bali",
+        "convenient for Bali ferry"
+      ]
+    },
+    {
+      "intent": "Transit Hotel",
+      "description": "General transit stopover between destinations",
+      "typical_stay": "1 night",
+      "key_requirements": [
+        "efficient check-in/out",
+        "comfortable room",
+        "dining",
+        "any location"
+      ],
+      "review_evidence": [
+        "transit hotel",
+        "one night stay between travels"
+      ]
+    },
+    {
+      "intent": "Business Travel",
+      "description": "Work-related stay in Banyuwangi",
+      "typical_stay": "2-5 nights",
+      "key_requirements": [
+        "reliable wifi",
+        "work desk",
+        "quiet room",
+        "meeting facilities",
+        "business center"
+      ],
+      "review_evidence": [
+        "perfect for business",
+        "saya menginap untuk urusan bisnis"
+      ]
+    },
+    {
+      "intent": "Staycation",
+      "description": "Leisure stay within the hotel with minimal outside exploration",
+      "typical_stay": "2-3 nights",
+      "key_requirements": [
+        "pool",
+        "rooftop bar",
+        "spa",
+        "good food",
+        "entertainment",
+        "comfort"
+      ],
+      "review_evidence": [
+        "cocok buat staycation",
+        "perfect for staycation"
+      ]
+    },
+    {
+      "intent": "Weekend Escape",
+      "description": "Short weekend getaway",
+      "typical_stay": "2 nights",
+      "key_requirements": [
+        "quick booking",
+        "relaxing atmosphere",
+        "pool",
+        "dining",
+        "value"
+      ],
+      "review_evidence": [
+        "weekend stay here was perfect",
+        "weekend escape from surabaya"
+      ]
+    },
+    {
+      "intent": "Family Vacation",
+      "description": "Multi-night family holiday",
+      "typical_stay": "2-4 nights",
+      "key_requirements": [
+        "family room",
+        "kids activities",
+        "pool",
+        "varied breakfast",
+        "near attractions"
+      ],
+      "review_evidence": [
+        "kami menginap 3 hari 2 malam untuk liburan sekolah",
+        "perfect for family vacation"
+      ]
+    },
+    {
+      "intent": "Meeting / Conference",
+      "description": "Corporate or organizational event attendance",
+      "typical_stay": "1-3 days",
+      "key_requirements": [
+        "meeting room",
+        "catering",
+        "AV equipment",
+        "comfortable seating"
+      ],
+      "review_evidence": [
+        "meeting room facilities adequate",
+        "conference hotel"
+      ]
+    },
+    {
+      "intent": "Wedding",
+      "description": "Wedding event guest or host",
+      "typical_stay": "1-2 nights",
+      "key_requirements": [
+        "ballroom",
+        "wedding catering",
+        "decoration",
+        "accommodation for guests"
+      ],
+      "review_evidence": [
+        "wedding venue review",
+        "resepsi pernikahan"
+      ]
+    }
+  ],
+  "total": 10
+}
