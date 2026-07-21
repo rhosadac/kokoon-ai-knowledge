@@ -669,5 +669,22 @@
       "mention_count": 1,
       "category": "activities"
     }
+  ],
+  "vip_guests": [
+    {
+      "name": "Wakil Presiden Gibran Rakabuming Raka",
+      "mention_count": 1,
+      "category": "vip_guests"
+    },
+    {
+      "name": "Presiden Prabowo Subianto",
+      "mention_count": 1,
+      "category": "vip_guests"
+    },
+    {
+      "name": "Presidential Catering Event",
+      "mention_count": 1,
+      "category": "vip_guests"
+    }
   ]
 }

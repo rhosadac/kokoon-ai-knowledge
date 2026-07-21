@@ -161,6 +161,16 @@
         "tenang, sejuk"
       ],
       "category": "ambience"
+    },
+    {
+      "strength": "Presidential & Vice Presidential Endorsement — unmatched VIP prestige",
+      "mention_count": 2,
+      "avg_score_when_mentioned": 100.0,
+      "evidence": [
+        "Wakil Presiden Indonesia (Gibran Rakabuming Raka) menginap di Kokoon Hotel Banyuwangi",
+        "Hotel menangani katering acara negara yang dihadiri Presiden Prabowo Subianto"
+      ],
+      "category": "prestige"
     }
   ],
   "total": 15

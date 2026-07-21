@@ -16,7 +16,9 @@
         "limited gym equipment"
       ],
       "avg_score": 92.1,
-      "review_evidence": "hotel untuk perjalanan bisnis maupun liburan bersama keluarga"
+      "review_evidence": "hotel untuk perjalanan bisnis maupun liburan bersama keluarga",
+      "features": [],
+      "notes": []
     },
     {
       "name": "Family with Children",
@@ -34,7 +36,9 @@
         "noise travels between rooms"
       ],
       "avg_score": 92.8,
-      "review_evidence": "perfect for families on vacation, kids club and pool are so good"
+      "review_evidence": "perfect for families on vacation, kids club and pool are so good",
+      "features": [],
+      "notes": []
     },
     {
       "name": "Couple / Honeymooner",
@@ -51,7 +55,9 @@
         "cold pool water"
       ],
       "avg_score": 97.2,
-      "review_evidence": "nice hotel to stay with your love ones"
+      "review_evidence": "nice hotel to stay with your love ones",
+      "features": [],
+      "notes": []
     },
     {
       "name": "Solo Traveller",
@@ -68,7 +74,9 @@
         "limited solo activities"
       ],
       "avg_score": 93.0,
-      "review_evidence": "comfortable for solo stay, very clean and modern"
+      "review_evidence": "comfortable for solo stay, very clean and modern",
+      "features": [],
+      "notes": []
     },
     {
       "name": "Backpacker",
@@ -84,7 +92,9 @@
         "location not walkable to city"
       ],
       "avg_score": 88.0,
-      "review_evidence": "value for money, strategic location"
+      "review_evidence": "value for money, strategic location",
+      "features": [],
+      "notes": []
     },
     {
       "name": "Government / Corporate Guest",
@@ -101,7 +111,9 @@
         "SOP rigidity"
       ],
       "avg_score": 90.0,
-      "review_evidence": "good for business and meetings"
+      "review_evidence": "good for business and meetings",
+      "features": [],
+      "notes": []
     },
     {
       "name": "Travel Group",
@@ -118,7 +130,9 @@
         "slow buffet refill"
       ],
       "avg_score": 94.0,
-      "review_evidence": "we are a small group of three who stayed for work, wonderful experience"
+      "review_evidence": "we are a small group of three who stayed for work, wonderful experience",
+      "features": [],
+      "notes": []
     },
     {
       "name": "Foreign Tourist",
@@ -135,7 +149,9 @@
         "mosque noise"
       ],
       "avg_score": 91.8,
-      "review_evidence": "staff don't speak English, there were lots of misunderstandings"
+      "review_evidence": "staff don't speak English, there were lots of misunderstandings",
+      "features": [],
+      "notes": []
     },
     {
       "name": "Domestic Tourist",
@@ -152,7 +168,9 @@
         "location slightly far from attractions"
       ],
       "avg_score": 93.1,
-      "review_evidence": "setiap ke banyuwangi pasti stay di sini"
+      "review_evidence": "setiap ke banyuwangi pasti stay di sini",
+      "features": [],
+      "notes": []
     },
     {
       "name": "Transit Traveller",
@@ -168,7 +186,9 @@
         "price for short stay feels high"
       ],
       "avg_score": 91.1,
-      "review_evidence": "transit hotel between Banyuwangi and Bali"
+      "review_evidence": "transit hotel between Banyuwangi and Bali",
+      "features": [],
+      "notes": []
     }
   ],
   "total": 10

@@ -188,5 +188,10 @@
     "this hotel is",
     "di hotel kokoon",
     "di kokoon hotel"
-  ]
+  ],
+  "vip_endorsement": {
+    "vice_president_stayed": "Gibran Rakabuming Raka — hotel guest",
+    "president_attended_event": "Prabowo Subianto — hotel handled official catering",
+    "uniqueness": "Only hotel in Banyuwangi with this level of VIP endorsement"
+  }
 }

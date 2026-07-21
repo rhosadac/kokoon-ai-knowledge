@@ -144,6 +144,16 @@
       "id": "baluran_safari",
       "type": "activity",
       "label": "Baluran Savannah Safari"
+    },
+    {
+      "id": "wakil_presiden_gibran",
+      "type": "vip",
+      "label": "Wakil Presiden Gibran Rakabuming Raka"
+    },
+    {
+      "id": "presiden_prabowo",
+      "type": "vip",
+      "label": "Presiden Prabowo Subianto"
     }
   ],
   "relationships": [
@@ -289,6 +299,18 @@
       "relation": "near",
       "distance": "3 hours drive",
       "description": "Turtle conservation beach"
+    },
+    {
+      "source": "kokoon_hotel_banyuwangi",
+      "target": "wakil_presiden_gibran",
+      "relation": "hosted_vip_guest",
+      "evidence": "Wakil Presiden RI menginap di Kokoon Hotel Banyuwangi"
+    },
+    {
+      "source": "kokoon_hotel_banyuwangi",
+      "target": "presiden_prabowo",
+      "relation": "provided_catering_for_presidential_event",
+      "evidence": "Hotel menangani katering acara yang dihadiri Presiden RI"
     }
   ]
 }

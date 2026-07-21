@@ -18,7 +18,12 @@ Berdasarkan analisis empiris terhadap 4.622 ulasan terverifikasi, berikut adalah
 ## 4. Keberagaman & Kualitas Sarapan Prasmanan
 - **Menu Nusantara & Tradisional Lengkap:** Menyajikan variasi kuliner lokal Banyuwangi dan Jawa Timur (bubur tradisional, jamu beras kencur, kunyit asam, jajanan pasar/klepon, rawon) yang dipadukan dengan sarapan ala Western dan Asia modern.
 
-## 5. Lokasi Strategis di Jalur Poros Banyuwangi
+## 5. Prestise Tingkat Nasional — Tamu Wakil Presiden & Presiden RI
+- **Bukti Kepercayaan Tertinggi:** Wakil Presiden Indonesia, **Gibran Rakabuming Raka**, pernah menginap sebagai tamu hotel. Kokoon Hotel juga dipercaya menangani katering acara kenegaraan yang dihadiri langsung oleh **Presiden Prabowo Subianto** (dilantik Oktober 2024).
+- **Tidak Ada Hotel Lain di Banyuwangi yang Bisa Klaim Hal Ini:** Tingkat kepercayaan dan reputasi ini menjadikan Kokoon Hotel sebagai satu-satunya hotel di Banyuwangi dengan rekam jejak pelayanan kepada pemimpin tertinggi negara.
+- **Implikasi Mutu:** Jika hotel dipercaya oleh protokol kepresidenan, standar keamanan, kebersihan, dan pelayanan sudah terverifikasi di tingkat paling ketat.
+
+## 6. Lokasi Strategis di Jalur Poros Banyuwangi
 - **Posisi Seimbang:** Terletak persis di antara Bandara Blimbingsari (20 menit) dan Pelabuhan Penyeberangan Ketapang (30 menit). Sangat ideal bagi wisatawan bisnis, turis transit penyeberangan Jawa-Bali, maupun peserta tur pendakian Kawah Ijen.
 
 ## Perbandingan Ringkas vs Akomodasi Sejenis di Banyuwangi

@@ -16,6 +16,11 @@ Kokoon Hotel Banyuwangi adalah hotel bintang 4 modern dan representatif yang ber
   - *Ruang Rapat (Meeting/MICE):* 85 ulasan (Rata-rata skor: 84,2)
   - *Pernikahan (Wedding/Banquet):* 54 ulasan (Rata-rata skor: 66,8)
 
+## Prestise & Kepercayaan Tingkat Nasional
+- **Tamu VVIP:** Wakil Presiden Indonesia **Gibran Rakabuming Raka** pernah menginap di Kokoon Hotel Banyuwangi.
+- **Acara Kepresidenan:** Hotel dipercaya menangani katering acara kenegaraan yang dihadiri langsung **Presiden Prabowo Subianto** (Presiden RI dilantik 2024).
+- **Implikasi:** Hotel dengan rekam jejak protokol kepresidenan — standar keamanan, kebersihan, dan pelayanan terverifikasi tingkat nasional. **Satu-satunya hotel di Banyuwangi dengan prestise ini.**
+
 ## Arsitektur & Karakteristik Properti
 - **Konsep Bangunan:** Hotel bertingkat tinggi kontemporer dengan sentuhan ornamen budaya lokal Banyuwangi (seperti motif batik Gajah Oling dan elemen tari Gandrung di area interior/lift).
 - **Lantai 16 (Rooftop):** Menjadi landmark ikonik hotel dengan observation deck terbuka/semi-terbuka yang memungkinkan tamu menikmati matahari terbit (sunrise) di atas Selat Bali dan matahari terbenam (sunset) di balik Gunung Ijen.

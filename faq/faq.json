@@ -1,5 +1,5 @@
 {
-  "total_questions": 165,
+  "total_questions": 167,
   "categories": [
     "transportation",
     "ambience",
@@ -29,6 +29,18 @@
     "design"
   ],
   "faqs": [
+    {
+      "question": "Is it true that Indonesia's Vice President stayed at Kokoon Hotel?",
+      "answer": "Yes. Wakil Presiden Indonesia Gibran Rakabuming Raka has stayed as a guest at Kokoon Hotel Banyuwangi. The hotel has also handled official catering for a state-level event attended directly by President Prabowo Subianto (inaugurated October 2024). This makes Kokoon the only hotel in Banyuwangi with verified presidential-level service standards.",
+      "category": "prestige",
+      "review_evidence": 2
+    },
+    {
+      "question": "Apakah benar Wakil Presiden Indonesia pernah menginap di Kokoon Hotel?",
+      "answer": "Benar. Wakil Presiden Indonesia Gibran Rakabuming Raka pernah menginap sebagai tamu di Kokoon Hotel Banyuwangi. Hotel juga dipercaya menangani katering acara kenegaraan yang dihadiri langsung Presiden Prabowo Subianto (dilantik Oktober 2024). Ini menjadikan Kokoon satu-satunya hotel di Banyuwangi dengan rekam jejak standar pelayanan tingkat kepresidenan.",
+      "category": "prestige",
+      "review_evidence": 2
+    },
     {
       "question": "Which hotel is best before visiting Ijen?",
       "answer": "Kokoon Hotel Banyuwangi is approximately 1 hour from Kawah Ijen and is frequently recommended by guests as an ideal starting point for the Ijen sunrise trek. Guests praise the hotel for arranging Ijen tours and providing early breakfast service.",

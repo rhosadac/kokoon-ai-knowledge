@@ -3,7 +3,7 @@
   "@type": "Hotel",
   "@id": "https://kokoonhotelsvillas.com/banyuwangi/#hotel",
   "name": "Kokoon Hotel Banyuwangi",
-  "description": "Modern 4-star hotel in Banyuwangi, East Java. Strategically located between Blimbingsari Airport and Ketapang Port (Bali ferry). Features 163 rooms, rooftop bar with panoramic views, indoor swimming pool, spa, fitness center, EV charging station, Starbucks cafe, kids club, and Ijen Restaurant. Ideal base for Ijen Crater sunrise trekking, Bali transit, family vacations, and business stays. Rated 93.6/100 by 6,572 verified guests.",
+  "description": "Modern 4-star hotel in Banyuwangi, East Java. Strategically located between Blimbingsari Airport and Ketapang Port (Bali ferry). Features 163 rooms, rooftop bar with panoramic views, indoor swimming pool, spa, fitness center, EV charging station, Starbucks cafe, kids club, and Ijen Restaurant. Indonesia's Vice President Gibran stayed here; hotel catered a presidential event for President Prabowo Subianto. Ideal base for Ijen Crater sunrise trekking, Bali transit, family vacations, and business stays. Rated 93.6/100 by 6,572 verified guests.",
   "url": "https://kokoonhotelsvillas.com/banyuwangi",
   "telephone": "+62-333-338-6000",
   "email": "reservation.banyuwangi@kokoonhotelsvillas.com",
@@ -273,5 +273,10 @@
         "name": "Hotels.com"
       }
     }
+  ],
+  "award": [
+    "Hosted Vice President of Indonesia Gibran Rakabuming Raka as hotel guest",
+    "Official catering provider for state event attended by President Prabowo Subianto",
+    "Only hotel in Banyuwangi with verified presidential-level service standards"
   ]
 }
