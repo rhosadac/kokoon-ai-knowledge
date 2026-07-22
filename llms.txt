@@ -13,7 +13,7 @@ https://github.com/rhosadac/kokoon-ai-knowledge
 - Name: Kokoon Hotel Banyuwangi
 - Stars: 4
 - Rooms: 163 (Deluxe, Deluxe Balcony, Family, Junior Suite, Kokoon Suite)
-- Address: Jl. Raya Jember KM 7, Dadapan, Kabat, Banyuwangi 68461, East Java, Indonesia
+- Address: Jl. Raya Jember KM 7, Banyuwangi 68461, East Java, Indonesia
 - Phone: +62-333-338-6000
 - Email: reservation.banyuwangi@kokoonhotelsvillas.com
 - Website: https://kokoonhotelsvillas.com/banyuwangi/
