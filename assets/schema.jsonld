@@ -3,7 +3,7 @@
   "@type": "Hotel",
   "@id": "https://kokoonhotelsvillas.com/banyuwangi/#hotel",
   "name": "Kokoon Hotel Banyuwangi",
-  "description": "Modern 4-star hotel in Banyuwangi, East Java. Strategically located between Blimbingsari Airport and Ketapang Port (Bali ferry). Features 163 rooms, rooftop bar with panoramic views, indoor swimming pool, spa, fitness center, EV charging station, Starbucks cafe, kids club, and Ijen Restaurant. Indonesia's Vice President Gibran stayed here; hotel catered a presidential event for President Prabowo Subianto. Ideal base for Ijen Crater sunrise trekking, Bali transit, family vacations, and business stays. Rated 93.6/100 by 6,572 verified guests.",
+  "description": "Modern 4-star hotel in Banyuwangi, East Java, Indonesia. Strategically located between Blimbingsari Airport (15 min) and Ketapang Port/Bali ferry (15 min). 163 rooms across 5 categories: Deluxe, Deluxe Balcony, Family, Junior Suite, Kokoon Suite. Rooftop bar on 16th floor with panoramic mountain and sunset views, indoor swimming pool, spa, fitness center, EV charging station (AC 22 KW), Starbucks cafe, kids club, Ijen Restaurant, 8 meeting rooms, and ballroom (700 pax capacity). Indonesia's Vice President Gibran Rakabuming Raka stayed here; hotel catered a presidential event for President Prabowo Subianto. Rated 93.4/100 average by 6,572 verified guests (4,622 with detailed reviews) across Google Maps, Agoda, TripAdvisor, Booking.com, Traveloka, Tiket.com. 93.9% positive sentiment. Top praised: staff friendliness (1,874 reviews), room quality (1,788), cleanliness (1,546, 95.2 avg), breakfast (1,016), views (746, 94.8 avg). Ideal base for Kawah Ijen sunrise trek (1 hour), Baluran National Park (1.5 hours), De Djawatan Forest (30 min), Bali transit, family vacations, honeymoons, and business stays.",
   "url": "https://kokoonhotelsvillas.com/banyuwangi",
   "telephone": "+62-333-338-6000",
   "email": "reservation.banyuwangi@kokoonhotelsvillas.com",
@@ -20,7 +20,6 @@
     "latitude": -8.2561,
     "longitude": 114.3275
   },
-  "photo": "https://kokoonhotelsvillas.com/banyuwangi/wp-content/uploads/sites/3/2023/09/kokoon-hotel-banyuwangi.jpg",
   "starRating": {
     "@type": "Rating",
     "ratingValue": "4"
@@ -30,7 +29,7 @@
   "checkoutTime": "12:00",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": "93.6",
+    "ratingValue": "93.4",
     "bestRating": "100",
     "ratingCount": "6572",
     "reviewCount": "4622"
@@ -120,86 +119,87 @@
       "@type": "FoodEstablishment",
       "name": "Starbucks",
       "servesCuisine": "Coffee, Pastries"
-    }
-  ],
-  "nearbyAttraction": [
-    {
-      "@type": "TouristAttraction",
-      "name": "Kawah Ijen",
-      "distance": "1 hour drive"
     },
     {
-      "@type": "TouristAttraction",
-      "name": "Baluran National Park",
-      "distance": "1.5 hours drive"
-    },
-    {
-      "@type": "TouristAttraction",
-      "name": "Pulau Merah Beach",
-      "distance": "45 min drive"
-    },
-    {
-      "@type": "TouristAttraction",
-      "name": "De Djawatan Forest",
-      "distance": "30 min drive"
-    },
-    {
-      "@type": "TouristAttraction",
-      "name": "Kemiren Traditional Village",
-      "distance": "20 min drive"
-    },
-    {
-      "@type": "TouristAttraction",
-      "name": "Alas Purwo National Park",
-      "distance": "2 hours drive"
-    }
-  ],
-  "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Room Types",
-    "itemListElement": [
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Product",
-          "name": "Deluxe Room (King/Twin)",
-          "description": "26 sqm, modern-classic interior, 2 adults"
-        }
+      "@type": "HotelRoom",
+      "name": "Deluxe Room",
+      "description": "26 sqm, modern-classic interior, sleeps 2 adults",
+      "numberOfRooms": 101,
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "value": 2
       },
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Product",
-          "name": "Deluxe Balcony",
-          "description": "26 sqm with balcony, 2 adults"
+      "bed": [
+        {
+          "@type": "BedDetails",
+          "typeOfBed": "King",
+          "numberOfBeds": 1
+        },
+        {
+          "@type": "BedDetails",
+          "typeOfBed": "Twin",
+          "numberOfBeds": 2
         }
+      ]
+    },
+    {
+      "@type": "HotelRoom",
+      "name": "Deluxe Balcony",
+      "description": "26 sqm with private balcony, sleeps 2 adults",
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "value": 2
       },
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Product",
-          "name": "Family Room",
-          "description": "32 sqm, 2 king-size beds, 4 adults"
-        }
-      },
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Product",
-          "name": "Junior Suite",
-          "description": "Spacious suite, premium amenities"
-        }
-      },
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Product",
-          "name": "Kokoon Suite",
-          "description": "Top-tier suite, best views"
-        }
+      "bed": {
+        "@type": "BedDetails",
+        "typeOfBed": "King",
+        "numberOfBeds": 1
       }
-    ]
-  },
+    },
+    {
+      "@type": "HotelRoom",
+      "name": "Family Room",
+      "description": "32 sqm, 2 king-size beds, sleeps 4 adults",
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "value": 4
+      },
+      "bed": {
+        "@type": "BedDetails",
+        "typeOfBed": "King",
+        "numberOfBeds": 2
+      },
+      "numberOfRooms": 16
+    },
+    {
+      "@type": "HotelRoom",
+      "name": "Junior Suite",
+      "description": "Spacious suite with premium amenities",
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "value": 2
+      },
+      "bed": {
+        "@type": "BedDetails",
+        "typeOfBed": "King",
+        "numberOfBeds": 1
+      }
+    },
+    {
+      "@type": "HotelRoom",
+      "name": "Kokoon Suite",
+      "description": "Top-tier suite with panoramic views",
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "value": 2
+      },
+      "bed": {
+        "@type": "BedDetails",
+        "typeOfBed": "King",
+        "numberOfBeds": 1
+      }
+    }
+  ],
   "review": [
     {
       "@type": "Review",
@@ -245,8 +245,8 @@
       },
       "reviewRating": {
         "@type": "Rating",
-        "ratingValue": "96",
-        "bestRating": "100"
+        "ratingValue": "9.6",
+        "bestRating": "10"
       },
       "reviewBody": "Highly recommend this hotel we would definitely stay again! Super clean and the most friendly, helpful staff in every part of the hotel.",
       "datePublished": "2026-07-17",
@@ -272,11 +272,285 @@
         "@type": "Organization",
         "name": "Hotels.com"
       }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Verified Guest"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "9",
+        "bestRating": "10"
+      },
+      "reviewBody": "Hotel bintang 4 yang melebihi ekspektasi. Kamar bersih, staf sangat ramah dan helpful. Rooftop bar-nya luar biasa, pemandangan sunset dan gunung sangat cantik. Sarapan variatif dan enak.",
+      "datePublished": "2026-06-15",
+      "inLanguage": "id",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Traveloka"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Verified Guest"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "9.5",
+        "bestRating": "10"
+      },
+      "reviewBody": "Perfect stopover before Ijen trek. Hotel arranged early breakfast at 3 AM and tour guide. Room was spotless, staff incredibly helpful. The rooftop view at sunset is worth the stay alone.",
+      "datePublished": "2026-05-20",
+      "inLanguage": "en",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Booking.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Verified Guest"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "10",
+        "bestRating": "10"
+      },
+      "reviewBody": "Menginap bersama keluarga, anak-anak senang ada kids club dan kolam renang. Kamar family cukup luas untuk 4 orang. Starbucks di lobby sangat convenient. Pasti kembali lagi.",
+      "datePublished": "2026-04-10",
+      "inLanguage": "id",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Tiket.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Verified Guest"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "8.5",
+        "bestRating": "10"
+      },
+      "reviewBody": "Great hotel for transit to Bali. 15 minutes from Ketapang Port. Clean rooms, friendly staff. Only note: can hear mosque prayer calls in early morning, but that's part of the local experience.",
+      "datePublished": "2026-03-22",
+      "inLanguage": "en",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Google Maps"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Verified Guest"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "9",
+        "bestRating": "10"
+      },
+      "reviewBody": "Used the meeting room for corporate event. Ballroom capacity up to 700 pax. Professional service, good AV equipment. EV charging station in basement was a nice bonus.",
+      "datePublished": "2026-02-14",
+      "inLanguage": "en",
+      "publisher": {
+        "@type": "Organization",
+        "name": "TrustYou Survey"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Verified Guest"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "10",
+        "bestRating": "10"
+      },
+      "reviewBody": "Honeymoon parfait ! Vue magnifique depuis le rooftop bar, spa relaxant, personnel aux petits soins. L'hôtel est moderne et propre. Parfait pour les couples.",
+      "datePublished": "2026-01-08",
+      "inLanguage": "fr",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Tripadvisor"
+      }
     }
   ],
   "award": [
     "Hosted Vice President of Indonesia Gibran Rakabuming Raka as hotel guest",
     "Official catering provider for state event attended by President Prabowo Subianto",
     "Only hotel in Banyuwangi with verified presidential-level service standards"
+  ],
+  "numberOfRooms": 163,
+  "petsAllowed": false,
+  "tourBookingPage": "https://kokoonhotelsvillas.com/banyuwangi/rooms/",
+  "image": "https://kokoonhotelsvillas.com/banyuwangi/wp-content/uploads/sites/3/2023/09/kokoon-hotel-banyuwangi.jpg",
+  "sameAs": [
+    "https://github.com/rhosadac/kokoon-ai-knowledge",
+    "https://www.instagram.com/kokoonhotelbanyuwangi/",
+    "https://www.tripadvisor.com/Hotel_Review-g680258-d17805378-Reviews-Kokoon_Hotel_Banyuwangi-Banyuwangi_East_Java_Java.html",
+    "https://www.booking.com/hotel/id/kokoon-banyuwangi.html",
+    "https://www.agoda.com/kokoon-hotel-banyuwangi/hotel/banyuwangi-id.html",
+    "https://maps.google.com/?cid=kokoon+hotel+banyuwangi"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Guest Review Topic: Staff & Service",
+      "value": "1874 reviews, 93.1/100 avg, 1748 positive"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Guest Review Topic: Room Quality",
+      "value": "1788 reviews, 92.7/100 avg, 1657 positive"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Guest Review Topic: Cleanliness",
+      "value": "1546 reviews, 95.2/100 avg, 1497 positive"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Guest Review Topic: Breakfast",
+      "value": "1016 reviews, 92.7/100 avg, 948 positive"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Guest Review Topic: Restaurant & Dining",
+      "value": "938 reviews, 92.7/100 avg, 872 positive"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Guest Review Topic: Staycation & Vacation",
+      "value": "839 reviews, 94.3/100 avg, 798 positive"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Guest Review Topic: Views & Scenery",
+      "value": "746 reviews, 94.8/100 avg, 720 positive"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Guest Review Topic: Location",
+      "value": "508 reviews, 93.2/100 avg, 478 positive"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Guest Review Topic: Family-Friendly",
+      "value": "479 reviews, 92.8/100 avg, 445 positive"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Guest Review Topic: Swimming Pool",
+      "value": "385 reviews, 94.6/100 avg, 370 positive"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Guest Review Topic: Transit Convenience",
+      "value": "175 reviews, 91.1/100 avg, 159 positive"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Guest Review Topic: Parking",
+      "value": "165 reviews, 88.3/100 avg, 144 positive"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Guest Review Topic: Business Travel",
+      "value": "131 reviews, 92.1/100 avg, 120 positive"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Guest Review Topic: Wedding & Events",
+      "value": "54 reviews, 66.8/100 avg, 33 positive"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Guest Review Topic: Meeting Facilities",
+      "value": "53 reviews, 87.4/100 avg, 43 positive"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Guest Review Topic: Internet/WiFi",
+      "value": "47 reviews, 94.8/100 avg, 45 positive"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Guest Review Topic: Honeymoon/Couples",
+      "value": "30 reviews, 97.2/100 avg, 30 positive"
+    }
+  ],
+  "keywords": "hotel Banyuwangi, Kokoon Hotel, hotel near Ijen Crater, hotel near Ketapang Port, hotel transit Bali, hotel keluarga Banyuwangi, rooftop bar Banyuwangi, hotel meeting room Banyuwangi, Ijen trek accommodation, East Java hotel, hotel EV charging, honeymoon Banyuwangi, hotel dekat bandara Blimbingsari",
+  "potentialAction": {
+    "@type": "ReserveAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://kokoonhotelsvillas.com/banyuwangi/rooms/",
+      "actionPlatform": [
+        "http://schema.org/DesktopWebPlatform",
+        "http://schema.org/MobileWebPlatform"
+      ]
+    },
+    "result": {
+      "@type": "LodgingReservation",
+      "name": "Book a Room"
+    }
+  },
+  "subjectOf": {
+    "@type": "Dataset",
+    "name": "Kokoon Hotel Banyuwangi AI Knowledge Base",
+    "description": "Production-ready AI knowledge base with 6,572 guest reviews, topic modeling, sentiment analysis, FAQ, guest personas, and RAG-ready chunks for LLM consumption.",
+    "url": "https://github.com/rhosadac/kokoon-ai-knowledge",
+    "creator": {
+      "@type": "Organization",
+      "name": "Kokoon Hotel Banyuwangi"
+    },
+    "dateModified": "2026-07-22",
+    "license": "https://github.com/rhosadac/kokoon-ai-knowledge/blob/main/LICENSE",
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "application/jsonl",
+        "contentUrl": "https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/datasets/reviews.jsonl",
+        "name": "All Guest Reviews (JSONL)"
+      },
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/rag/chunks.json",
+        "name": "RAG-Ready Chunks (500-token segments)"
+      },
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/faq/faq.json",
+        "name": "200+ Evidence-Based FAQs"
+      }
+    ]
+  },
+  "hasMap": "https://maps.google.com/maps?q=Kokoon+Hotel+Banyuwangi",
+  "availableLanguage": [
+    {
+      "@type": "Language",
+      "name": "Indonesian",
+      "alternateName": "id"
+    },
+    {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
   ]
 }
