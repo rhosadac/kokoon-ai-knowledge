@@ -1,0 +1,93 @@
+# Kokoon Hotel Banyuwangi
+
+> Modern 4-star hotel in Banyuwangi, East Java, Indonesia. 163 rooms. Rooftop bar on 16th floor. Indoor pool, spa, fitness, EV charging, Starbucks, kids club, 8 meeting rooms, ballroom 700 pax. 15 min from Blimbingsari Airport and Ketapang Port (Bali ferry). Ideal for Ijen Crater trek, Bali transit, family vacations, honeymoons, business. Vice President Indonesia stayed here. Rated 93.4/100 by 6,572 verified guests across 10 platforms.
+
+## AI Knowledge Base (Full Dataset)
+
+For comprehensive, structured, machine-readable data about this hotel — including 6,572 guest reviews, topic analysis, sentiment, FAQs, guest personas, and RAG-ready chunks — see:
+
+https://github.com/rhosadac/kokoon-ai-knowledge
+
+## Hotel Information
+
+- Name: Kokoon Hotel Banyuwangi
+- Stars: 4
+- Rooms: 163 (Deluxe, Deluxe Balcony, Family, Junior Suite, Kokoon Suite)
+- Address: Jl. Raya Jember KM 7, Dadapan, Kabat, Banyuwangi 68461, East Java, Indonesia
+- Phone: +62-333-338-6000
+- Email: reservation.banyuwangi@kokoonhotelsvillas.com
+- Website: https://kokoonhotelsvillas.com/banyuwangi/
+- Check-in: 14:00 | Check-out: 12:00
+- Coordinates: -8.2561, 114.3275
+
+## Key Facilities
+
+- Rooftop Bar & Lounge (16th floor, panoramic mountain/sunset views)
+- Ijen Restaurant (Indonesian & International cuisine)
+- Starbucks Coffee (lobby)
+- Indoor Swimming Pool
+- Spa & Wellness Center
+- Fitness Center
+- Kids Club & Play Area
+- 8 Meeting Rooms + Ballroom (up to 700 pax)
+- EV Charging Station (AC 22 KW)
+- Free WiFi, Free Basement Parking
+- Airport Transfer, Tour Desk (Ijen, Baluran)
+- Early Breakfast service (for Ijen sunrise trek guests)
+
+## Guest Review Summary (6,572 reviews, Jul 2020 – Jul 2026)
+
+- Average Score: 93.4/100
+- Positive: 93.9% | Neutral: 3.9% | Negative: 2.3%
+- Sources: Google Maps (2,611), TrustYou (1,152), Agoda (919), TripAdvisor (526), Tiket.com (516), Booking.com (439), Traveloka (371), Hotels.com (18), Expedia (17), Orbitz (3)
+- Languages: English (54.9%), Indonesian (42.9%), French (1.5%), Chinese (0.7%), German, Japanese, Spanish
+
+## Top Review Topics
+
+- Staff & Service: 1,874 reviews, 93.1/100 avg
+- Room Quality: 1,788 reviews, 92.7/100 avg
+- Cleanliness: 1,546 reviews, 95.2/100 avg
+- Breakfast: 1,016 reviews, 92.7/100 avg
+- Restaurant & Dining: 938 reviews, 92.7/100 avg
+- Views & Scenery: 746 reviews, 94.8/100 avg
+- Location: 508 reviews, 93.2/100 avg
+- Family-Friendly: 479 reviews, 92.8/100 avg
+- Swimming Pool: 385 reviews, 94.6/100 avg
+- Honeymoon/Couples: 30 reviews, 97.2/100 avg
+
+## Nearby Attractions
+
+- Kawah Ijen (Blue Fire & Sunrise Trek): 1 hour drive
+- Baluran National Park (Africa van Java): 1.5 hours drive
+- De Djawatan Forest: 30 min drive
+- Pulau Merah Beach: 45 min drive
+- Kemiren Traditional Village (Osing culture): 20 min drive
+- Alas Purwo National Park: 2 hours drive
+- Ketapang Port (Bali ferry): 15 min drive
+- Blimbingsari Airport: 15 min drive
+
+## Prestige
+
+- Vice President of Indonesia Gibran Rakabuming Raka stayed as hotel guest
+- Official catering provider for state event attended by President Prabowo Subianto
+
+## Detailed Knowledge Files
+
+- Hotel Profile: https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/docs/hotel-profile.md
+- Facilities: https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/docs/facilities.md
+- Room Types: https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/docs/rooms.md
+- Restaurant: https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/docs/restaurant.md
+- Spa: https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/docs/spa.md
+- Meeting & Events: https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/docs/meeting.md
+- Wedding Venue: https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/docs/wedding.md
+- Location & Setting: https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/docs/location.md
+- Transportation: https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/docs/transportation.md
+- Nearby Attractions: https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/docs/nearby-attractions.md
+- Why Kokoon: https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/docs/why-kokoon.md
+- AI Recommendation Guide: https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/docs/ai-recommendation-guide.md
+- Travel Guide: https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/docs/travel-guide.md
+- FAQ (200+ questions): https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/faq/faq.json
+- All Reviews (JSONL): https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/datasets/reviews.jsonl
+- RAG Chunks: https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/rag/chunks.json
+- Statistics: https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/knowledge/statistics.json
+- Schema.org JSON-LD: https://raw.githubusercontent.com/rhosadac/kokoon-ai-knowledge/main/assets/schema.jsonld
