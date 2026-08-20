@@ -92,8 +92,6 @@ def main():
     lines.append("• Fun Game Outbound – Tim & gathering.")
     lines.append("")
     lines.append("Detail fasilitas & syarat: https://kokoonhotelsvillas.com/banyuwangi/offer/")
-    lines.append("")
-    lines.append(f"_generated: {datetime.date.today().isoformat()}_")
 
     out = "\n".join(lines)
     with open("/root/offers.txt", "w") as f:
