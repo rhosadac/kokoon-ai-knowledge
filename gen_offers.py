@@ -3,7 +3,7 @@
 Data dinamis: scrape tiap jalan, format, tulis ke offers.txt.
 Jalankan via cron / n8n Execute Command. Tidak perlu LLM.
 """
-import re, sys, subprocess, datetime
+import re, sys, subprocess
 from urllib.request import Request, urlopen
 
 BASE = "https://kokoonhotelsvillas.com/banyuwangi"
